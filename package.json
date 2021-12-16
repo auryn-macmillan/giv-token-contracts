@@ -24,6 +24,7 @@
     "prettier:sol"
   ],
   "devDependencies": {
+    "@nomiclabs/eth-sig-util": "^2.4.4",
     "@nomiclabs/hardhat-ethers": "^2.0.2",
     "@nomiclabs/hardhat-etherscan": "^2.1.3",
     "@nomiclabs/hardhat-waffle": "^2.0.1",
@@ -32,6 +33,7 @@
     "@typechain/ethers-v5": "^8.0.2",
     "@typechain/hardhat": "^3.0.0",
     "@types/chai": "^4.2.22",
+    "@types/eth-sig-util": "^2.1.1",
     "@types/ethereumjs-util": "^6.1.0",
     "@types/mocha": "^5.2.7",
     "@types/node": "^16.11.7",
