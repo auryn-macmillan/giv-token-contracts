@@ -26,3 +26,18 @@ contract UniswapV3StakerMock {
         rewardToken.safeTransfer(msg.sender, amount);
     }
 }
+
+contract UniswapV3RewardWrapper {
+    IERC20 token;
+
+    event BoolResult(bool result);
+
+    constructor(IERC20 _token) {
+        token = _token;
+    }
+
+    function approveWrapper(address account, uint256 amount) external {
+        bool res = token.approve(account, amount);
+        emit BoolResult(res);
+    }
+}

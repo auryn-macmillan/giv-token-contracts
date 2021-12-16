@@ -33,11 +33,7 @@ contract UniswapV3RewardToken is IERC20, OwnableUpgradeable {
         return 0;
     }
 
-    function approve(address spender, uint256 value)
-        external
-        override
-        returns (bool)
-    {
+    function approve(address, uint256) external pure override returns (bool) {
         return true;
     }
 
@@ -86,7 +82,7 @@ contract UniswapV3RewardToken is IERC20, OwnableUpgradeable {
         return true;
     }
 
-    function allowance(address owner, address spender)
+    function allowance(address, address spender)
         external
         view
         override
