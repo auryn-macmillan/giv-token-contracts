@@ -18,7 +18,8 @@
     "distributor:kovan": "HARDHAT_NETWORK=kovan ts-node deployments/notifyRewardAmount/mainnet/distributor.js",
     "deploy:GardenUnipool:xDAI": "HARDHAT_NETWORK=xDAI ts-node scripts/deployGardenUnipool.js",
     "upgrade:GardenUnipool:xDAI": "HARDHAT_NETWORK=xDAI ts-node scripts/upgradeGardenUnipool.js",
-    "upgrade:TokenDistro:xDAI": "HARDHAT_NETWORK=xDAI ts-node scripts/upgradeTokenDistro.js"
+    "upgrade:TokenDistro:xDAI": "HARDHAT_NETWORK=xDAI ts-node scripts/upgradeTokenDistro.js",
+    "deploy:TestMerkleDistro": "HARDHAT_NETWORK=xDAI ts-node deployments/deploy_new_merkledistro.ts 0x18a46865AAbAf416a970eaA8625CFC430D2364A1"
   },
   "pre-commit": [
     "prettier:sol"
