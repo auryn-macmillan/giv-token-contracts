@@ -103,9 +103,12 @@ const config: HardhatUserConfig = {
         rinkeby: {
             url: `https://rinkeby.infura.io/v3/${process.env.INFURA_PROJECT_ID}`,
             gasPrice: 123000000000,
-            accounts: process.env.PRIVATE_KEY
-                ? [`${process.env.PRIVATE_KEY}`]
-                : [],
+            accounts: {
+                mnemonic: process.env.MNEMONIC || DEFAULT_MNEMONIC,
+                path: "m/44'/60'/0'/0",
+                initialIndex: 0,
+                count: 20,
+            },
         },
         kovan: {
             url: `https://kovan.infura.io/v3/${process.env.INFURA_PROJECT_ID}`,
@@ -117,16 +120,22 @@ const config: HardhatUserConfig = {
         mainnet: {
             url: `https://mainnet.infura.io/v3/${process.env.INFURA_PROJECT_ID}`,
             gasPrice: "auto",
-            accounts: process.env.PRIVATE_KEY
-                ? [`${process.env.PRIVATE_KEY}`]
-                : [],
+            accounts: {
+                mnemonic: process.env.MNEMONIC || DEFAULT_MNEMONIC,
+                path: "m/44'/60'/0'/0",
+                initialIndex: 0,
+                count: 20,
+            },
         },
-        xDAI: {
+        gc: {
             url: `https://rpc.xdaichain.com/`,
             gasPrice: 2000000000,
-            accounts: process.env.PRIVATE_KEY
-                ? [`${process.env.PRIVATE_KEY}`]
-                : [],
+            accounts: {
+                mnemonic: process.env.MNEMONIC || DEFAULT_MNEMONIC,
+                path: "m/44'/60'/0'/0",
+                initialIndex: 0,
+                count: 20,
+            },
         },
     },
     gasReporter: {

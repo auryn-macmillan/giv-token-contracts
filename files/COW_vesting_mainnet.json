@@ -1,0 +1,7016 @@
+[
+  {
+    "address": "0x9d94EF33e7F8087117F85b3ff7b1d8F27E4053D5",
+    "allocation": "0x0917c42c62f233876a3800",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x445cc6C3D51EB0a63395a613a0960c7922bCA0d6",
+    "allocation": "0x0423e0e2c4fe19cd4ed000",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x1D65d296b6Ad7Fdbf77D3C9CC44C9b2787f1A341",
+    "allocation": "0x02e3f876eeeba20fffb400",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xFe13988736d95D052C2E45e5b4E1Ef2e2750b7F4",
+    "allocation": "0x02613541933d69fc7bf000",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x2EF2E49695F00fa835fB851c0575822f5f076a13",
+    "allocation": "0x025b1f4c71557009ce5000",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x62Da87FF2E2216F1858603A3Db9313E178da3112",
+    "allocation": "0x0236509ac7570a52180800",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xAe5fB390e5c4fA1962e39E98DBfb0ed8055Ed7A9",
+    "allocation": "0x02053d89b3b4108936a400",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x950c6aC0BD65e70036E05a15053f5d9f2DD1c25b",
+    "allocation": "0xcb625be31b8fc646c600",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x95Bed7933b6046DF3F638654E53237cE8B6e1Dc3",
+    "allocation": "0xb2c915fc6db42c48e400",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x5E78C09984bd6608f8E913F0924062C043eD6ad7",
+    "allocation": "0x96c7d31c555c3e0e5e00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x10A19e7eE7d7F8a52822f6817de8ea18204F2e4f",
+    "allocation": "0x8878b387da43bc78e800",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x978C01b69dD722754D65fe39c4308F51B912a73b",
+    "allocation": "0x8598b9b41f48cb5f9a00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x9F074913c4Bdf3A51F18d820626d3C897Fb55CcF",
+    "allocation": "0x6736eec393d68f9dea00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xB1363975921C83F959fcE3a73f0258C5AdFceAB9",
+    "allocation": "0x51507530f6c43a677400",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xe3C9E09E49F75d7EC947484abf74579Ea5aa0e18",
+    "allocation": "0x46b98c14ccd60da33800",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x00e286b5256Aa6cf252D5a8a5a7B8c20Ec3bC4D5",
+    "allocation": "0x3d14e914e35efb1e7c00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xF64C2E6679E089cD1c3e303CA1245d4941747700",
+    "allocation": "0x3c4fee0b555800fb0800",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xcd1883D83aEd27a87cC7572eb8F9855A0BdD944e",
+    "allocation": "0x326fa42f3ccf05d15c00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xE91F64cA1da165Ca8437686B69A022156550837B",
+    "allocation": "0x31e03c3b2124026ee800",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x06d50814562467776Af76134aD936440E6AbB878",
+    "allocation": "0x2e0e9278ca78e8630600",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xEa8d287E23F1E005Fa8BD3c9d1EfAe2c726dB9A4",
+    "allocation": "0x2c9718a8fc4bcbb8f400",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xef764BAC8a438E7E498c2E5fcCf0f174c3E3F8dB",
+    "allocation": "0x25bd3d2889ecea840400",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x69daA47F4773121D58e28D73D4afAa6A2AD7B9cD",
+    "allocation": "0x21f2272199da658f6200",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x45602BFBA960277bF917C1b2007D1f03d7bd29e4",
+    "allocation": "0x1e27f705aaac007d8400",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x78e96Be52e38b3FC3445A2ED34a6e586fFAb9631",
+    "allocation": "0x1dfd6da91595aba48c00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x6c762FaE992eeB9AC51e36fb5635E01e72FD271a",
+    "allocation": "0x1d49a64c71d24806fa00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x22fa8Cc33a42320385Cbd3690eD60a021891Cb32",
+    "allocation": "0x1ccf13baa2e27e76bc00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x5309aaC198C88a7EB770244887CdF051E1155A88",
+    "allocation": "0x1c604a1fc86d866e4400",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xF5c063c58670B27E6a9FA97a20dC5BBBC493Dcb3",
+    "allocation": "0x1c14b339fd8e38dfd400",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x84F0809d3cfB97B2c8A4A77fe82b962F90851DDb",
+    "allocation": "0x1ad44c63e2692524f800",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x659418bbb855c18F9253AcbCCC20b40051FeE6b2",
+    "allocation": "0x1a62f824f5568f548600",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x002a417EB2874C2fBCf52e5fdC4633b5Df92b012",
+    "allocation": "0x1a440ccd202d9ddcdc00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xF14B1A6098036Cb4f3D867b0145785f98c998988",
+    "allocation": "0x1a190124ccc8ae151200",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xcB4755eA7C0c05b6041C2a58F07bd922A37401fd",
+    "allocation": "0x16e916c5d94ce20ebc00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xd000FA10efcdC734Af5E4E3433cE0E75f220549d",
+    "allocation": "0x16bb455def2a773b1e00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x270042A7623A90e6eBe6Ae6e3263d61896B46906",
+    "allocation": "0x1696eb6d5ea27e617800",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x7c363e4650ca88e4676f1ce2aC6F2Dd50C102198",
+    "allocation": "0x14fc16983926e3da7200",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xe58Ce76Deb798FD45fC4EcFB9a49F406e7FFc948",
+    "allocation": "0x1217fa9d0000d30dfd00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x24D19f100Ba142543a863fc2294b188e35aB55b9",
+    "allocation": "0x0f13fb82d5560634a300",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x571e9aeFfF646CDFa80Da4745293daB94A7Ba4a2",
+    "allocation": "0x0f13fb82d5560634a300",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x92532bf9Fef6fb291621b664598f7B0699897542",
+    "allocation": "0x0e69c9a2eceb92263500",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x279a7DBFaE376427FFac52fcb0883147D42165FF",
+    "allocation": "0x0e29239492890528d600",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xDdFE74f671F6546F49A6D20909999cFE5F09Ad78",
+    "allocation": "0x0d9a3c2e24a63ecebb00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x7CE490534D78F1Ee54b20F7D03A99d5e3162e02B",
+    "allocation": "0x0b7451ad886eb43b2700",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x30D9Ebb167706d074B0A41F4c26f69467Cc88036",
+    "allocation": "0x0b30117a5f06da869a00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xEeA1cBa569aDFB4A4D12f65f2987E8c89C05A1E5",
+    "allocation": "0x0b21eee1d64314d5a900",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x34676cE24F37E1421A429481FEBe0bAcB2bC12f7",
+    "allocation": "0x0ab8b353960560472f00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x6feED810A75d4eaAd5400d07CE1489065Ac733E7",
+    "allocation": "0x0a268d480888e2d09700",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x0D142CCDD22D4902b6F94Cdb1b23693cDcB2f796",
+    "allocation": "0x09d9720ec2c3741fa500",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x3Fb9Be23c30f9a2B024B493654aA9c832D098383",
+    "allocation": "0x0964fc7baa925991a600",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x054Cf498C73BcfF0cfb94a0fCfb10356E30f71cB",
+    "allocation": "0x092d7d6f4eb4c5122000",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xFf52227C583EFd2B77DcB1cBbD56F3e1edC7B68b",
+    "allocation": "0x090bfd4e8000668c0e00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x3A11F4c84688a1264690d696D8D807a25Ee02dd2",
+    "allocation": "0x090bfd4e8000668c0e00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xF2e563F6FbF25cf23Dbe57d25287e10339aD3b6f",
+    "allocation": "0x090bfcfeabf5a650fc00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x7ac712ec4C58dEd138CC4e63e0fd59F697cC6963",
+    "allocation": "0x0834b87db07ff85ac800",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xA9781c55c4257675A72A53525F1c960D2FB41a7d",
+    "allocation": "0x07b84f9f258c4de81900",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x1a8d1c090903bD6492372b890d68AAf50c96137f",
+    "allocation": "0x07b84f9f258c4de81900",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x1c1cc870115FDf86288cf38556c4da441699A0E2",
+    "allocation": "0x0789fdc16aab001f6100",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xaDF100a2fD9b746448e58bc431aed12993B2dCE9",
+    "allocation": "0x0789fdc16aab001f6100",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x08d52BDD8aCbF9b45ade3D3FE4758389262CdD25",
+    "allocation": "0x0789fdc16aab001f6100",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x8Da9B7eDdAd06D3265a3D5e95850c21C0a96F2d3",
+    "allocation": "0x0789fdc16aab001f6100",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xde2509cdd45E276bAD2af5E2Bbb40A4aFa0274f8",
+    "allocation": "0x074a994f1be3204ee900",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x6B18D2799C804251e307b9f80c130C637674eAC2",
+    "allocation": "0x0702e4500999eb290000",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xB03aEac789533514C7dF885e0D930d5EECB400EC",
+    "allocation": "0x0702e4500999eb290000",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x0db90b2604F9BB2a99F731a1b174be4F888bb0F5",
+    "allocation": "0x06ca07d37ed07eee5b00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x3F3B9B0F14DEF5817a61437CCB25CcBBD4853fFD",
+    "allocation": "0x066a00a683df6a2cf800",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x26e547A9F3fD90E49a9a85a91001ca3f7ba2c81D",
+    "allocation": "0x0607fe34555599b2b400",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xa073Bd06DC19466F5122864a80FAFf5D7Af9123a",
+    "allocation": "0x05f50627e6ccc8ad1200",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xCd1979AFF68EDEA19C7A8aadBE56d9fd1f3fBEb6",
+    "allocation": "0x05d8efa046a127da5c00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x88a2F230C8C407E8fe10041900746A70Ef28d8ee",
+    "allocation": "0x05678b720b2c694cf300",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x84Ef9d47a2B1cbFC2F011F886287Ef44F08c80ab",
+    "allocation": "0x0562e5d8a4878c638b00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x038Db6c62d0F072616e2B8dB7D3D7cFC829f7f65",
+    "allocation": "0x0547f207d21325ca6100",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x25431341A5800759268a6aC1d3CD91C029D7d9CA",
+    "allocation": "0x053f8ca670ddfc9e0d00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x822aDfc4b4F055a1182e771e1A742235268bBCF0",
+    "allocation": "0x052b38ad7018c3e84100",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x29345d922285321e7452eCe2ee2352DDa2E837aE",
+    "allocation": "0x0510699d0e5f6be8c700",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x239EeC9EC218f71cEf5CC14D88b142ed4fF44110",
+    "allocation": "0x05055fc901ebbd423f00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xAeD55B0EBB566E4ed491F68Ef0eC4e705C7a1523",
+    "allocation": "0x04893f0df48244018200",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xBf15bd159aE5B410c4B7d4AE0230Fb81F2f21cF1",
+    "allocation": "0x0485ff4b2eb83689c000",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xFaC964684c3a72b0485e42a78EAc5f78428C4aF0",
+    "allocation": "0x0485fea7400033460700",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xc258F9eBDffec87Cd89819DeDdF824288FdCB9D6",
+    "allocation": "0x0485fea7400033460700",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x7ee300Ec74F7af0304a9038381ea3DcF3AEE940D",
+    "allocation": "0x0485fea7400033460700",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xff26CCF9058B9Bd8fAcFB6a8876864Fec193285d",
+    "allocation": "0x047f11cd12afeed6ca00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xCFb5F1A901814BDFb6b5E808C9eb940b9e07fD12",
+    "allocation": "0x040584d1d3c599347f00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xFfFefD6e5D65c1BB132646ec844c6A8F48190619",
+    "allocation": "0x03dc27cf92c623f91c00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x657289Ea89D19C78aB7D825e5fFA2c5f6166Fec5",
+    "allocation": "0x03dc27cf92c623f91c00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x68548B4154c46e4200CBF6fE76a90bA7AfF337ED",
+    "allocation": "0x03dc27cf92c623f91c00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x079F822b355A89E103272538fF93cBE51061186d",
+    "allocation": "0x03dc27cf92c623f91c00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x418E763f914E5ba83EE16E1Cc2Dd4751aB67EcFC",
+    "allocation": "0x03dc27cf92c623f91c00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xD9A809B28074aaf1dB121E6329ed64DeA485E605",
+    "allocation": "0x03c9d21278ccf62d4e00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x92aa8CAE5C0D2987f2e31BA99c96da7008D1EE51",
+    "allocation": "0x03c8db0884e8458cc500",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x54CF0Ef9998b5274e321C18679450D73Afcf1A83",
+    "allocation": "0x03c5237972d7fc1bec00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xe19eFAa0D37Fa5E71f531FBe818c56593Ab02b34",
+    "allocation": "0x03c4fee0b555830aa100",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xed9C851aAdf96d4Ff2Fab2433BC4AA111BabC15E",
+    "allocation": "0x03c4fee0b555830aa100",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xdDe5b6f6bd7968221aD61c238e0B4D482837d666",
+    "allocation": "0x03a54ca38798f4365d00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x28Dd6f5a98003FC07C92d1A9E909d042963A1001",
+    "allocation": "0x0358ea860147d77ac000",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x88f1706c20d94A4d1551C5F799C9E3380A24C3AC",
+    "allocation": "0x030dbd6db8b09e585f00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x31191280ce6E59287390E424Cb75Bd2211Dc396b",
+    "allocation": "0x030602a5fac48c460d00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xF7B10D603907658F690Da534E9b7dbC4dAB3E2D6",
+    "allocation": "0x0303ff1a2aaaccd95a00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x308686553a1EAC2fE721Ac8B814De638975a276e",
+    "allocation": "0x0303ff1a2aaaccd95a00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x7f9320A48f563153d2D3a877a26eA8A878E50db6",
+    "allocation": "0x02f7bd549d6f816bae00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x11Ef83Cc4bA994E365fD5a97AF55E5C748f97e60",
+    "allocation": "0x02ecd9411a0291d3d800",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x4C1216A641AA3b8E592ef960b5D3fEf6139ac01c",
+    "allocation": "0x02e8fc5cc99841eebf00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xd85872dB2628C55591E7BFBE4349058b53FacB97",
+    "allocation": "0x02cc23dce8cdd018b900",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xf41F984eD5e4002c08d9DA82E4C96C93304222c2",
+    "allocation": "0x02bc7ab286f6a1a72a00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x05e09d942505764bca4475ABf8efdBc21D1c535B",
+    "allocation": "0x02a1d903e3f411ddb700",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x09988E9AEb8c0B835619305Abfe2cE68FEa17722",
+    "allocation": "0x029e9e1eb6b311599100",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x51FfD343D6fecab9E9c5640F0e6A67dEC31Bc76c",
+    "allocation": "0x029e3f07c5845c3eed00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xFCBA2b176DbEE8d89E7114061FbeceD92Fe9f5Db",
+    "allocation": "0x029449b63bf577f95300",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xbC641f6C6957096857358Cc70df3623715A2ae45",
+    "allocation": "0x0293f0944c7e29b95a00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x8fe7b143B2C67739e9C933DA0a48142b14c4415d",
+    "allocation": "0x02923952c29851c7de00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x773d161310d07CaFC6f767Ca24f43e52163b9BE6",
+    "allocation": "0x027afa969ee941093d00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x9Ba964A731EcaFdf54E9914F99C9e754a77fC405",
+    "allocation": "0x025b3e5d06aaeadff400",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x71BD14e1815dBE1968B9De90D8328a011a0380B6",
+    "allocation": "0x02437fc970beb216a100",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x36d960741d2Ea0bfCCFa23838828Af528e38cD9a",
+    "allocation": "0x023be7b693c1c3d2ab00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xF6262371dc53B2d8f96bFdF807a4B6e375aA69f2",
+    "allocation": "0x023b098c1ffe8e0a2600",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xDE7296fD03293adfA4d3f5fb7C0292713F6Aaa0e",
+    "allocation": "0x02328e1f3d946b82e500",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xdEB08D04004ea00BB6898D19267f7d3399E2827D",
+    "allocation": "0x022ff23e781eff352700",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xa2f696958A5e023014620687f1D34755c707E5D1",
+    "allocation": "0x022caff02b0f605f3200",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x1d69DDB528f05Cda072DB0d1f688E47ac81eA9F6",
+    "allocation": "0x02288762f2f9ea2cf100",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xCF8fc248FE5fb0fa34451e5F13695c27d0A06F41",
+    "allocation": "0x021d3d44efd1355f6300",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xC3598d91844B061195136600AD243b077Cc164e2",
+    "allocation": "0x0210dfb74e6cf00c3780",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xAfCEa9e0b397C671179973883E6Fe0d9E77B12Ed",
+    "allocation": "0x020411a0d5fba773b780",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xc384Ac6ee27C39E2F278C220BDfA5BAeD626D9d3",
+    "allocation": "0x01e27f705aaac0542380",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x727334D71c7A70f8B611Cb32Da399048B4d27293",
+    "allocation": "0x01e014c13532b92f1b00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xbb268B5778bf54aB715eE3C79D1dA065574B38B1",
+    "allocation": "0x01c53c0b50fcbaa91800",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x5fb6e7e6Cd299449A02fE47ccCd5cb70fF9dC632",
+    "allocation": "0x01aaa25af815279ee700",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xE1BB99FA82a4eaE7263EADcAB5be266d187df6Be",
+    "allocation": "0x01a8991b311124768800",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xa8aC0CAbB75a3842Fb8cbBe18359F71711cf95B7",
+    "allocation": "0x01a0f0ff0fae4db7a000",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x02352E6DCF0c77577222adEE8C63d52243B5C33F",
+    "allocation": "0x0185d6c40e1bec5eff00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x77bF058E46c543556ab863Ab28F9fCbE4B46264d",
+    "allocation": "0x01840bb55433a10e5780",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x4530F1232A8DCcF18453446f6fBcB86ADe5E5Eff",
+    "allocation": "0x018277d523cb941d4f80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xD87b52a2545064aA2fD7DC8ab7831e1E8D7f0bf6",
+    "allocation": "0x0181ff9308a2b6334600",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x80C449367944b138a6B4a9BF22F78953f71D467a",
+    "allocation": "0x0181ff8d155567054380",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xC2634B9d0A0cFb756cDed34656E09828072A8a9B",
+    "allocation": "0x0181ff8d155567054380",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xF36700Ff798394C4a58fE861a4661f5489d90735",
+    "allocation": "0x0181c44303c25aa28280",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x6C6fB98c30906AA5c05f8ec322cbeB7243F0a4C6",
+    "allocation": "0x0175fd1a555f82572180",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x4ef2Ab73EF2214EBeba6f087A8DcF89731504301",
+    "allocation": "0x015c444d6f72c44b3300",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x19142E3Df9E34966C876024Dfb9d805f4EA4A131",
+    "allocation": "0x0159861f0445165b0680",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x64dF7AF696e0977771a0E1e1B1a8dD22DED3Cf4b",
+    "allocation": "0x014a41ef9f8aa1cbff00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x61F72FE1e4FF809A2ecA0b191C608599A192E1a1",
+    "allocation": "0x0144c75fafe23796e200",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xf597691D349968e389A24e9F8594D164F99d7787",
+    "allocation": "0x013cdae81f1a41619d80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xEaC03Ab059b522886A6F273BD96b26bD86a0b4a2",
+    "allocation": "0x013bd561109b9be82280",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xC7DA86dD7B5FEf769E549bF71f7B6fb4B9Af76B7",
+    "allocation": "0x0134cc70ddddec22ba80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x4026b3Da349C2952255Ca9db4F055ea57F4e037C",
+    "allocation": "0x01330f385a0bbda66280",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xcF87C7DfB05E943Ba38f41f1F8a839015a1e26ef",
+    "allocation": "0x012f96a0ea65114eac00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x73a8360E2D46ABcAdb6139F7Ba1002C767f72789",
+    "allocation": "0x012c3eb032a701d8b980",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x683a42E5B414Ae5cF79ece7e369cA5937fdcDC11",
+    "allocation": "0x01217fa9d0000d1dcd00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xE2A82cdccbFA6EBF9817b0C4aEd45264Bd41FBEC",
+    "allocation": "0x011d5e9c9faaed5f4780",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x81168C14e5A89f60b30e9a7f82A229406A64369d",
+    "allocation": "0x010fe0148af2ac89f600",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xaF7dAee76E04E01219714cA771ED31Aad4c1e5EF",
+    "allocation": "0x010fa3a61d7bd5cee780",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x9dEc5DaccB0D3bA37d3d9EDE29F095Cf83362dd0",
+    "allocation": "0x010d3d11388b1326f600",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xbDfA4f4492dD7b7Cf211209C4791AF8d52BF5c50",
+    "allocation": "0x0100af5a73de0592c400",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xF9b6A8b66f91E239A66f4C396Af9574F874d080A",
+    "allocation": "0xfec24383d715c23380",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x0d4a841839d7FDef03a17076Cafc66DCA3E92B0A",
+    "allocation": "0xfd78a4c5fb24018000",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x0154d25120Ed20A516fE43991702e7463c5A6F6e",
+    "allocation": "0xfaf22ffdf83da7f700",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x591326490AD6dAdB80116B04Ddd521e57bA22e2c",
+    "allocation": "0xf8030f5dca3196fc80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x3b067Af83F540cB827825a6Ee5480441a4237E77",
+    "allocation": "0xf709f3e4b18996dd80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xCA2cbA2Ad13eB32990b13B89D1A2B9Bb103B0464",
+    "allocation": "0xf709f3e4b18996dd80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x5274714F4c06f56c0Dd5ba46280b7daBe2b1340a",
+    "allocation": "0xf66ebebb0cfa4ac180",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x415FCE36e2Dc12421F20b93DbaD1dd68bd2F6db6",
+    "allocation": "0xf66e20d09c80bf2e80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x48B72465FeD54964a9a0bb2FB95DBc89571604eC",
+    "allocation": "0xf666d5c15308b14b80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x3D7aE4a4dd7Cfd5184Bbc2570A05651B180b1609",
+    "allocation": "0xf57ab9aab6b833d580",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xEFe375bf2c594155d2924015aCB9a121431A91E1",
+    "allocation": "0xf3c2b4004d3f368600",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x04E2aEcb5bC2a4eebc303afBb6a0EC8CC708648C",
+    "allocation": "0xf06fe6a4ad71b7ad80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x3F0ED57b0141c83FA6fb056eC8325dF34F8EA6Ea",
+    "allocation": "0xecdc5bb27e558e2780",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x4B50CA44afC1e27F129B3060467a0284d80b618B",
+    "allocation": "0xeb757c75f93755dc80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xbB49444efe86b167d1Cc35C79A9eb39110DbD5E3",
+    "allocation": "0xeac197abbe40561c80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xF627E5F4BAd95a956468d8BB6Ee20b119F992E96",
+    "allocation": "0xe8138c02aff049d380",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x74ABbAC922C73d95917BaDd2ee04862DB29298d6",
+    "allocation": "0xe79954a66670a79b00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xebF82644B69b2156EDAb189baE6e8f691350A5e6",
+    "allocation": "0xe4bb13d1ab9065d300",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x32a59b87352e980dD6aB1bAF462696D28e63525D",
+    "allocation": "0xd7ca8fbdd609384d00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x548B363F28234FE88a72D628c5350E37640429bC",
+    "allocation": "0xd7b874436b5658de00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xa5e8EB3FE57369BcdA21C376b18d07A236D54FFd",
+    "allocation": "0xd43f1e4fad4a49a880",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xF7838C101DD142AbFF1B612bd4DA21b21e43721f",
+    "allocation": "0xc6c7bad407d0ccbf00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xB8Adfee40e1DEfBB8314d3FeC3C622Be2F624901",
+    "allocation": "0xc390cf5b3311008480",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xF2B8C142Edcf2f3Cc22665cCE863a7C9A3E9F156",
+    "allocation": "0xc0ffc68aaab3365680",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x33bc178904662162c3576bA9Ca8aE1fe04E178f8",
+    "allocation": "0xc0ffc68aaab3365680",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x98f365b8215189f547E0f77d84aF1A2Cb0820c72",
+    "allocation": "0xc0ffc68aaab3365680",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xa4AAD96BDF6396dDbe55Ad3b376Bb6f27E431203",
+    "allocation": "0xc0ffc68aaab3365680",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xBC5eC594509eD050F4A53eEe85D92aF6d2529b56",
+    "allocation": "0xc0ffc68aaab3365680",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x3D37CFA2e89a04b3704Bd64BC2c9AB9DCd448b9a",
+    "allocation": "0xc09314151d1db27700",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xaa13905714dc09E1c51926869dDF2F3F2f1f3133",
+    "allocation": "0xb658cd8dcbfa5ccc00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x8f9bE4310f9AbB0E5843Cc6363908C9B01dfeB3F",
+    "allocation": "0xb41c53057390faf000",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xC149701eB565dE8f94B9B7EF35E7017029cF1cB7",
+    "allocation": "0xb31787c25a3892a480",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xAce57810549Be61779f58A8B66D8725bF8AaFf68",
+    "allocation": "0xb243425c9255479d80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x365a0A0492c5589eC4F04A9323f483D0dE6e1Df7",
+    "allocation": "0xb12dd52254ef0d8200",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x977BcC40cd619cd57C22767D76D129E3049dA6dF",
+    "allocation": "0xafa69e3ed280094800",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x49D56A0Ae3608b683755Cd54E2020134319213E5",
+    "allocation": "0xaf36c100b4d6a44100",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xEc80b5494e873Fd9A7c7Bf2368D743B38eb0b9eA",
+    "allocation": "0xadd904046751ca7680",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x305EA6F95E1d3f2d1152BC3f6B7c412504DA09Ac",
+    "allocation": "0xadb37099e313af3900",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x59693ebba325f592d858c30998d7C68EE29a4cb1",
+    "allocation": "0xadb2ff7cccd4c9ff80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x22Bb259F12af6F514a6e1BB2D275425458121c7e",
+    "allocation": "0xaa39b51b2c0ebbde80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x5e9b423c21236EE2e0c3F36c014AA0f3fC64FCd1",
+    "allocation": "0xa5017d4fefe88b5500",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xb5ad8B5787c71F08b3048da91aED6F35809CF313",
+    "allocation": "0xa4f2972a35fb889480",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x891c5FE26553a3C78cC29c9f4cBECF4c4a5B7228",
+    "allocation": "0xa3f4d4adaf794d9b00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x25125E438b7Ae0f9AE8511D83aBB0F4574217C7a",
+    "allocation": "0xa3956e0b1b5ab23900",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xcB141EC01f35ab8a9394a4A9422ce65D73A89a26",
+    "allocation": "0xa0b58af70a768d7080",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xbE09d4cD0025A5217626852b21576590e3A62d23",
+    "allocation": "0x9ff2e4ea5321f22700",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x7B1119EbfF23c92a3b3E772698164Dfbc9D8541e",
+    "allocation": "0x9d3b7d6aa977510680",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xbbD9d188441352896A3CDD52a019ECb3053DE3C1",
+    "allocation": "0x984cc33db395866580",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x7d54D807E9132fc34aCde66dE49b36D4F37e8e0c",
+    "allocation": "0x941abb9d76c2873200",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xe34e2Df841E5a6352B0aE8Bd5A797544f11D7e89",
+    "allocation": "0x8e582a8e45dd265580",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x4E2D315F003Bf04034b25d7DD8ab696b4656b5BB",
+    "allocation": "0x8e35cf321ddf745780",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xcbfc78d7e26C2FF131867ed74FA65572dAd6FC90",
+    "allocation": "0x8c53bc9cae093bba00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xA0206Ac75aa347327F8CA82440279bd6A0Fdef27",
+    "allocation": "0x8baaa8936c7dd9f100",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x95E17E827dF0B113D11d48Ee1771FF134F770dA9",
+    "allocation": "0x89ac9a0cd1e8db4600",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xc50193888fd7BD24DE6E5A9EB1Fb05B519A8d3F5",
+    "allocation": "0x88861f6dea17e43480",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x738671901aFfbc417FA370CF936e461BB5315bd0",
+    "allocation": "0x8549047c072565f100",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x5B71ab89a74Eb8515585bf100A69BcF12F9eaA3b",
+    "allocation": "0x83ef322713c5ebd480",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x6367a367EE11ea09Fb711F0e5ddF649C37863371",
+    "allocation": "0x833d49917e51431000",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x8bD9A82618687C47647184f70D1669082306D5FF",
+    "allocation": "0x8327d9e29546a6bb00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x53C601621a9Bdf0b98ADF8B1F7D41AE63bD46c07",
+    "allocation": "0x82679e56ae4e81d180",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x0A573Bc3489D3Dc339643Ce50767C19eEb3fED70",
+    "allocation": "0x8007e2a412edc22180",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xc41DDdD3fd3788E1021868434f0E9940af52A893",
+    "allocation": "0x7eb83239fffc4b1780",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x7B3431DB5a984C7a7a710175F6119a385070E9ec",
+    "allocation": "0x7e58283297d84d8e00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x449816D520c89c87b320E94A0BFDCA9ed66E156f",
+    "allocation": "0x7e04501eca6ba0df80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x6199f3E456781A05564495d2637D91fa550CC258",
+    "allocation": "0x7d0a45e2c895c02200",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xedAD9aaFf8932605729C0331EB3B84aDCC9435b8",
+    "allocation": "0x7c26bf4e9624fcb780",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xe2fbC567DedcfBF69018213A700f96A407cfaB14",
+    "allocation": "0x7b84f9f258c47f2380",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x41b3489940dEA9DD1eF90f0d7aeC7C8d3b512062",
+    "allocation": "0x7b83e7dc9507a40f00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x1466e94cC3DCC19760Bd880B77F3DA194A83A5dA",
+    "allocation": "0x7b6eeba452b8e1b880",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x193F0Ee42a199A0CECD479a9F09BA293eB1CA357",
+    "allocation": "0x7b4622cd39e06c7200",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xB2139bC97C2dC43f8825d033D08EcB9e2c8be00f",
+    "allocation": "0x7af08c6f1731ec6300",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xD9cfab54f1234AeEA22B2818AB919866A2809c1C",
+    "allocation": "0x76fee330649f34b600",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x8811f45eB3Dff252dfa0E265e77ecDd5aD7D0F10",
+    "allocation": "0x748027483077cc8100",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xE7c8712fC60B20693046c71E5012801eaAfc7217",
+    "allocation": "0x73ccaa53333853cd80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x8F688a91695F7D2a1E93e57cedcbf5c5202f617b",
+    "allocation": "0x73ccaa53333853cd80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x1e9C0bB00Ff504e2c4ed9368656E876616E25666",
+    "allocation": "0x73ccaa53333853cd80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x19F5572ec81f6A952c235f42301CA15e6475efD4",
+    "allocation": "0x72a2ecd2506293e180",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xf972Bf8592C3171B378E97BB869A980C3F476583",
+    "allocation": "0x724947a92b84c0dd00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xD0988045f54BAf8466a2EA9f097b22eEca8F7A00",
+    "allocation": "0x7220cb434e08dc3280",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x9A97Dbc9BAa91707B5bde45C810536C17b8cEB15",
+    "allocation": "0x7207e9fb5a6e0df700",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x2Ee8670d2b936985D5fb1EE968810c155D3bB9cA",
+    "allocation": "0x6eb7986dc861034200",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xF067A77Ed156F328982F0B927E0e9659bD4C144A",
+    "allocation": "0x6e1b1e9b48996c1680",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xdb4D88080ED478c729B07E23f8e0ccD1f57D3f9B",
+    "allocation": "0x6d822d8586a4c19800",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xD1B067580ad619B32Cc06309012B6b46d506Ed6e",
+    "allocation": "0x6cbd0fdaac3c35c080",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x768d91a758355F42d11FAa7539264BC11b4A1207",
+    "allocation": "0x6c145ab40dac287780",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xe2BBc8c2EF9636f0B1343c7568bd2Cc8a417E707",
+    "allocation": "0x67e4840b8c58c7ab80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xB9744eA3d36B2Ee72EF11aeE390B7dd8c245891F",
+    "allocation": "0x669e9707f335b9bc80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xd7dC95f0A625eF25E0BcC7DC877F36ccc52943e2",
+    "allocation": "0x634362e51a22316980",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x231B405c333DB6D81ADEAadF4c6FF3940Ea5dB21",
+    "allocation": "0x62c6bbe7d6d9932880",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x9f65B5aEa6536274Fd4960780557cBeA50d25AA0",
+    "allocation": "0x626e00bca2ac535e80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x9399979f3802cd1249C562B8b52e41A801228388",
+    "allocation": "0x61b1a2e02f338f6d00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x27c27151F9BC6330B767BAb8dCADa11A253ccb8c",
+    "allocation": "0x612ee96f77f2cbab80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xdDFd5A7B84af8abF7ACf6D3938eBfFdc8F2E7ecc",
+    "allocation": "0x60449933c24e1d4c00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xc8E2806A97413b5496A1ba6050b517CC98D0EfCA",
+    "allocation": "0x6027f122bb3b263080",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x9cF84E80bFAc19bC7f892359DB746c1F3c8bE955",
+    "allocation": "0x59dd988ce2a4f1e080",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xa005F646b9dC13E1f49B5F53C1c4552Fd312F4FD",
+    "allocation": "0x599edfdd6c413e6a80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x6f488D5Bc7D4a0d8Da169EFdd8a351dAA1f085c5",
+    "allocation": "0x5898b46f98ea4af680",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x7BDa037dFdf9CD9Ad261D27f489924aebbcE71Ac",
+    "allocation": "0x583f796e0b02a42900",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x1625aE476db935aCAd8393B0cBf741188340f0D0",
+    "allocation": "0x5831a25044e1a7b500",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x8D72a9BeBBd5160FBD61E57bcca7810b9F2d1d86",
+    "allocation": "0x57d2183c7d21a5b780",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x5Fdb500ba1d9b6Be0c164CE609277cD968C5D45e",
+    "allocation": "0x575c0521e39715e000",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x584313319d0bFeAd2a9d98a7154f5dCb5a62887F",
+    "allocation": "0x5590a8538a4dfe3d00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x7EF57cdfa4481B5B3F98Dd5827E80b87F76d878B",
+    "allocation": "0x53b19d7d7bb1616000",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x9FC27fB296eDf4B8B6aA3Ce42E9ba24BFA4c8d3e",
+    "allocation": "0x536349c2075d18e580",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x6c1e0C4221ec9d36Cf80cd2B9b6B9B2823e4CB69",
+    "allocation": "0x529d8dde28fd121600",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x46E9d23e8E5cDB3bD566760db5795045D14283f6",
+    "allocation": "0x514423d4b32903c180",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x3004E7d0bA11BcD506349F1062eA57f7037F0BBd",
+    "allocation": "0x513c20b578ca5ea000",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x35fe9F54f63C6765B16292ba9a17D6808FF6eb6C",
+    "allocation": "0x5112136c76cde27f80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xF13b15bDed269c9a6B6Ea62A0Ac61387113e1990",
+    "allocation": "0x50ef441228dd898680",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xca49EcB168C4Be0c2EBf744cEdF6c9f1d84bA854",
+    "allocation": "0x4fdf3c403107961c00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xE090888A66E618a8f10cf1C6dB7a74b1A4823Cb4",
+    "allocation": "0x4f21301f40dded5e80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x33D66941465ac776C38096cb1bc496C673aE7390",
+    "allocation": "0x4ecfb3de0521c3d080",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xc781B829afF316334fd732A8822Ca27677872a31",
+    "allocation": "0x4ec0eeeb34d513d780",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x432DcBdA06e8B296CA29705572D7cb6315Ed8Bed",
+    "allocation": "0x4e88eaa8b35314c000",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x04A169be0E157973db165462b19233caE4532fB3",
+    "allocation": "0x4e62365377143b8d80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xdbEC81b4Eab0B5234dBd9ff7c456BF750d7a9086",
+    "allocation": "0x4d517b0218c031ae80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xE7e21D548E8938209Aa710ebD468dc02A9573fB3",
+    "allocation": "0x4d331c37777ae28900",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xb8c7D022cd06f5e77e568336fa3cc3B06433299f",
+    "allocation": "0x4d331c37777ae28900",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x9C3e1508A6aa880741928a441DD13582e94696a0",
+    "allocation": "0x4b6f7bfd669b8d4100",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xcC202930867769A83B61cf5053b65D1845E76Aea",
+    "allocation": "0x4b16c286416baab980",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x880E14298Dd46418806F7B5e12B92Aa9873bB5D4",
+    "allocation": "0x4956f467e4b4ccde00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x4FdEC6a133c873E5fba5f101F7426Be1488bf571",
+    "allocation": "0x49448dff644c086080",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xE92D2A4255BC7e468D355644d24Ec5d9ac6eF13d",
+    "allocation": "0x46a30ab42dcafbc980",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x252166A8924A1E20B0593D8ddF925f8B5092C9E5",
+    "allocation": "0x4591e425d5543a2400",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x139776871Ee95f55d20b10d9Ba5a0385451066cd",
+    "allocation": "0x44ca57bf6f89442680",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x1ACe514D1904b274740BBfa4BA7C336e69888E47",
+    "allocation": "0x440deec2b1f7acb500",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x292973DC18d5e85e9a4E4185052Cdfc73CE6086b",
+    "allocation": "0x43c08128d5097b0980",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xf2327b04521589f505c7074C163805843A4bd6Cd",
+    "allocation": "0x42fde61f5f20aa2100",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xE4f80b148E9d4F2C47fF5D25C6F4A5b0c44B10D5",
+    "allocation": "0x40d0b7c86019956180",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x1d829BdBd534A70fDF27E959e790ef1d64e10ef8",
+    "allocation": "0x401770005afe5ffe80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x4B19811588dD963EC4ffC8A57876873c684EA8C7",
+    "allocation": "0x3f962b1acb02f82300",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xc1EFC49285Eb5Deda2Ac887d613242475ed15048",
+    "allocation": "0x3edca38038ddecf180",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xa34291EC7bb3e07D3a55F2321ff6102f4174133C",
+    "allocation": "0x3ec639690b405f8f00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x5811e1f688321481127fc6712cce32Ab208f3Fe2",
+    "allocation": "0x3e4ccce0b88a254600",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x009Ec7D76feBECAbd5c73CB13f6d0FB83e45D450",
+    "allocation": "0x3c014d475472682c00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x80D762e5A4dc2Bc237f594A7F696B5E216067036",
+    "allocation": "0x3a90afbfa47fd21f00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x0aAFC110BE60d816Df9b87Cc7bcf9AE7E34b2254",
+    "allocation": "0x3a8310a8747a36ac80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x2a94d3bF4c6EbA2A00C6b2726Ae0EdB7d8f25b3C",
+    "allocation": "0x3a5ab7b6152496f780",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x5c4D8CEE7dE74E31cE69E76276d862180545c307",
+    "allocation": "0x39e65529999c763200",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xCCf3A2FB95F9Ba35043B3A60390e401eBc5BCB2e",
+    "allocation": "0x39e65529999c763200",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x75750D0BbA74ECb961Fa588873A0EF69c54361c1",
+    "allocation": "0x39e65529999c763200",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x33c4296E5Cf9e8dDe73911AeedE936489798cdce",
+    "allocation": "0x39b65c550eb9370280",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xb0112DfeecBC590de58264780A02d98eFdFe6f59",
+    "allocation": "0x39693bc7cdb4e60280",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x79954763edd1b71Df832244a7C33B7Ba9F00C9b8",
+    "allocation": "0x38437c50729a18e480",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xD153C8d0F49403B533648c61a3B3B1c6b557f35C",
+    "allocation": "0x3814e952d74bc9e180",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x05A1ff0a32bc24265BCB39499d0c5D9A6cb2011c",
+    "allocation": "0x381455feaf96683a80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x17fB4db24b8f1817bc33d6e167b105FD77599C28",
+    "allocation": "0x37f313136896641e00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xd4E8ad52E6027Ec0C6812dD175f1eCF196fb61Ac",
+    "allocation": "0x377c8ebf1c27db7780",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x186E20ae3530520C9F3E6C46F2f5d1062b784761",
+    "allocation": "0x36df04a2f378eb5180",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x32ae635F5136AdB181A442Cc890be39263bC13c8",
+    "allocation": "0x36ae0d6c05f3003500",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x36C08D83428DBb17B9d1c4Fe55190b89a562f37b",
+    "allocation": "0x365ffb7aea2d0bcd80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xb93119FbC995C7b438b1944Ba128f398b8c8117c",
+    "allocation": "0x35db05682485729fc0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xE2E1087D2b777A10A3d6f20385b10e133175eBF9",
+    "allocation": "0x351c27d9fad4ab9740",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x22e5F823C5b9548fA524420814D81597eC47De04",
+    "allocation": "0x33588adc442042d900",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x614037458A228a5f7556BE1F2DaE83BaADe13217",
+    "allocation": "0x331e1943421e0fee80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x603C9545c03339B6f1BF8ED36d8B4dac71424b0e",
+    "allocation": "0x322e058a740fef4e80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xcaf317CDDF594659020eE8B85adB657C7dDC90F3",
+    "allocation": "0x322e058a740fef4e80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xbBF3E43681886F30835eb3CE8ec210b8ff16e85D",
+    "allocation": "0x322e058a740fef4e80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xe05875F287C028901798aC2Dc8C22Ba908b8eF36",
+    "allocation": "0x31a574e2292b166840",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x9Be85faBd144bCa1aCdF2b5E074cFbFBEB2855a3",
+    "allocation": "0x3177ee894d21043280",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x0cc79d5B54fa6b1589f1e4e780B60c6B7972FF0f",
+    "allocation": "0x30be37837eb3b56900",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xa4cBE661ac2305960d6495572d3E10c87d2a2C92",
+    "allocation": "0x3038317ae25173b840",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xc4A639cba07bfBf4C0a2EEF7fb441895Af7BC807",
+    "allocation": "0x3004d9dba83e61ff00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x97A554cb95EDEc7037292dEAa883864Cb35BC668",
+    "allocation": "0x2fd138f9dfdbf5bec0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xe6D2c5648990dDD4b3D1eFB712F3b832194eBD7f",
+    "allocation": "0x2f56457d262b36bac0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xFa125816b3884dA3C8886160849499E1F3cfd1a5",
+    "allocation": "0x2e7e9b99a1e1787c00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xd3B2a586180c9e306b38848D31e82F9E17D76F0C",
+    "allocation": "0x2e680d2f28872a1e80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xc3e3E913d837f47db17E2105DEbF60e767e009a7",
+    "allocation": "0x2e51ddbae149ca6140",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xF56D16f0e9539A4c14818FB3c8AcE0A4154c7746",
+    "allocation": "0x2e4655987c5e1c1140",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x31354228Caa2851C52D995C8995126B9309943Ad",
+    "allocation": "0x2d8f11031ec46d5340",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xAA942B60823bE690A17576207b819807891D71F6",
+    "allocation": "0x2d4af6610bf7aa9ec0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x849646E3bCfb0Ff9984812B4Ac558DDDCCFA3247",
+    "allocation": "0x2ce2ad136c604d4300",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x358344999bA6fd789e7F859469fB3b06035c6E8A",
+    "allocation": "0x2c623c3dbc2c495e80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x121ac669E4c99ef4673B22D57431B3A521292f2c",
+    "allocation": "0x2c31320cacca681600",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xBc5fBa1FEf0ba69E401Cdf97197d75a5f9d9d4C6",
+    "allocation": "0x2bb6409f6f3aa27f40",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xD790D1711A9dCb3970F47fd775f2f9A2f0bCc348",
+    "allocation": "0x2bb4925065d4b42b00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x246149caf4243ff4c2592615053d29121EF151d0",
+    "allocation": "0x2b6116da097d0e1740",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x7129bED9a5264F0cF279110ECE27add9B6662bD5",
+    "allocation": "0x2a9d3ca1b08b8bbc80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xEE4dB7C0c2648Cd9171d4217A1aE036D0Cae0E75",
+    "allocation": "0x2a984bcae44a92c400",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xEf6FE9C9B351824c96e5C7a478C1e52BAdCBAEe0",
+    "allocation": "0x2a75bc12fa4076ef40",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xd27d90b337717Fd91C4D409F712B890D4eE2FdD6",
+    "allocation": "0x2a75b5eb4e83a57400",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x155cCf41305F5fE3FAae64eCea8a1E2cAd08F085",
+    "allocation": "0x2a75b5eb4e83a57400",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x06a035b1321DFEcdedDb940686860e05BA268DCD",
+    "allocation": "0x29e4c101ad562b71c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x7132b5edC9ee267C58d3562D3E621384b18Da7F3",
+    "allocation": "0x2997602967170c2600",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x76577d204A5bd63b6D006222429c4D5124f4619c",
+    "allocation": "0x28af22d07869112540",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x7c20B174F7275A59BE485a11652F0990866764a8",
+    "allocation": "0x282aafc79b3d8e5880",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xBD076E704eC292D396Ce663b085eB2809d397a37",
+    "allocation": "0x27dde1eea0356d0640",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x7868B70C16bDB0EACA542864B596746752f39FC5",
+    "allocation": "0x272ec43f6dce9f05c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x05310C5594A3c961f212308317ff3a4FDD8F82aF",
+    "allocation": "0x26f1803e55dbe63f40",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x27Bba99469653F80eFd8E3D23ba224d8Db1e0851",
+    "allocation": "0x26caf632ae0d5b2040",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xf955151CDB077Ae78694A300e0CBb2f4CFb98bc8",
+    "allocation": "0x26c383d1b731755bc0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x7C3841D0471Cd40a234243235A628646a685bF3E",
+    "allocation": "0x26af87e8fa7c969480",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xF9107317B0fF77eD5b7ADea15e50514A3564002B",
+    "allocation": "0x26a2af0fc53d88c7c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xB74465cefD9cAC12A5E96A9736f131b02AB531d0",
+    "allocation": "0x26998e1bbbbd8086c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xcB9120133F6a19224059b9ED11d141B11d6439a9",
+    "allocation": "0x26998e1bbbbd8086c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x1dF428833f2C9FB1eF098754e5D710432450d706",
+    "allocation": "0x26998e1bbbbd8086c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x6dd6E20a0969782468718d5d8f35defD3d2F1DB3",
+    "allocation": "0x26998e1bbbbd8086c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x021c1a1cE318E7B4545f6280b248062592B71706",
+    "allocation": "0x26998e1bbbbd8086c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xFbf784C8178DF8857FDe1b4b1e14870fD345F693",
+    "allocation": "0x26998e1bbbbd8086c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xF7C723473CE30A8dcC20d195C705473B1746Ca97",
+    "allocation": "0x26565c4c151666bc00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x17307bE3589a680452543DDe06d42A07EE3FA080",
+    "allocation": "0x262fd28d7581e87f40",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xc34efe5150dC9cBd89ce3bE1FBd2fB12ffC7af39",
+    "allocation": "0x25e2b396564e2915c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x133b86a4eB1545dADdb98d4D7CecFAe96Fc56516",
+    "allocation": "0x25d3ec8bd195e297c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xA8Af6321480D415726573A8048C5f20897dF21a7",
+    "allocation": "0x25d2dbd0610cf99b80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x4929f4d38F2955649b5aa34343da04cf790B9D92",
+    "allocation": "0x2583b218b172df9700",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x89768Ca7E116D7971519af950DbBdf6e80b9Ded1",
+    "allocation": "0x254f6c09b1916a6d00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xA22EaF1C82BB1A639eE931288f51a5eD6914B3FF",
+    "allocation": "0x253eb6681f84b4d680",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xE0c2B5E8d62d0afA5B86DD7020c2f0C51b567b30",
+    "allocation": "0x24fea5077542da8f40",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x17451598Bf282dA2367E3FD1823F871f4b42B9F9",
+    "allocation": "0x234567a758dc72bf80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x7074A77130050DD99CDA301A57f07a50975C2179",
+    "allocation": "0x233eb378af58d4d880",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x3739c8293aB99254B873FBec1B1a8152e866d066",
+    "allocation": "0x2322431f093f33dac0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x32163ba2015326D49a1C3ba2fF75250873e711c0",
+    "allocation": "0x231bfc428e90a57d40",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xF78cD306b23031dE9E739A5BcDE61764e82AD5eF",
+    "allocation": "0x22bd664c28f75b9980",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x3c26D015A318E93A2D100d774e9f48EEd90e7ead",
+    "allocation": "0x229dcaad491c4cb380",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xDe30040413b26d7Aa2B6Fc4761D80eb35Dcf97aD",
+    "allocation": "0x21d70cfedf63564e00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xB9c7895C8E1aF78CD994d15f5128E6bF5f85463F",
+    "allocation": "0x21d459224942a15340",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xF4613132baca9AaBe16A04ED388E9Efcf3972475",
+    "allocation": "0x21c9bdccfad09ef0c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x519EbeDCb61498e2EBabE8D8b9FF8B168Fa5fB3b",
+    "allocation": "0x21c7047102223cfa00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x4391D8FB658405bcC381967e98a2E0593271820e",
+    "allocation": "0x21c65c584445c6ec80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x5AF5cE62295c99FC3E676D8EbA299A906429566A",
+    "allocation": "0x21a0f2f740e4307380",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xC71D1c4A95784b2d203C3b885B216D3232D719C1",
+    "allocation": "0x21585b10341740d500",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x74B4B8C7cb9A594a6440965f982deF10BB9570b9",
+    "allocation": "0x20fe4a56f77cc2fb80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x70e09792E94b04CDb76abf7AA24781DCb4d37E2E",
+    "allocation": "0x20cf52645f944181c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x6D90550736Cb00027C38E5e09297993973F34849",
+    "allocation": "0x20c0c1bee0550f7480",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x4a7DC0A1f68EcFfD1588Df798d95C95C8aA7efd9",
+    "allocation": "0x209231ee6c7de52380",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x317112017fb54Ec6F4daB35e09896687b029066B",
+    "allocation": "0x2056df709965ca6280",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x328375e18E7db8F1CA9d9bA8bF3E9C94ee34136A",
+    "allocation": "0x203e3dd29d480c5540",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x6677Ca74a6e6631dB693a37e690306451Fc381db",
+    "allocation": "0x20226e45f7bd7258c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x7B76ADF47b09F09e1107A1235E513724168d95f0",
+    "allocation": "0x201c65df69004cbf40",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x147C6bd2eaD3e21AC4433D058FF998713e205772",
+    "allocation": "0x1fece9e7ad6914b8c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xb50685c25485CA8C520F5286Bbbf1d3F216D6989",
+    "allocation": "0x1fdfc5d155e8038840",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x63C0ac6F404542E0B85036Da3bbE2D38250Dcdf7",
+    "allocation": "0x1fd85986122e978d40",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x86Bf97A8356690456F4040Dd0172aa3d4d5315E2",
+    "allocation": "0x1f9c59c8659d743fc0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x54b45B82Dd69854c39bC4346197f4a7DDCD183C4",
+    "allocation": "0x1f55549996cf2321c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x4B0dAd867e15eEdB6FC6fDF8be3D6b56163cB9f4",
+    "allocation": "0x1ee13e7c963136ac40",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xDb541f100086Ba51bE7519B47c0BA0CE365Bd983",
+    "allocation": "0x1ee13e7c963136ac40",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xdB0b39341290A30510E46E7692195FE16097e0DF",
+    "allocation": "0x1d4cc4841329e61c40",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x6d0BBe84eBa47434a0004fc65797B87eF1C913b7",
+    "allocation": "0x1d42cd66eb332f2300",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xf3DB5DbB73694583D6d42fB050dE15B818E4E428",
+    "allocation": "0x1cf32a94ccce1c9480",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xE8dc757a6a164690556CfF1851e536E06Ee93346",
+    "allocation": "0x1cb777df2e0ccbd440",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x4b69511c0b077200771f73F3C7CD4EcD60C77707",
+    "allocation": "0x1ca12640c16417e040",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x0e43b915D2d03162A36DD72031Dd25aC575912d6",
+    "allocation": "0x1c913fbf76d1c28680",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xAB12253171A0d73df64B115cD43Fe0A32Feb9dAA",
+    "allocation": "0x1c7bc84aaeaa060a00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xc62b361FdC14210dA59b9F5c3Ba7FAa7d61893a4",
+    "allocation": "0x1bea8afaaff7e06400",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xf70ACf5136E01182d480De48B97608d134be0c8c",
+    "allocation": "0x1b91c77aed21933c00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xc6c77B16A85C3946e0BDfC71fdb7eFD3d89359d0",
+    "allocation": "0x1ae9fe664631c81dc0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x05F0BA0f63b401BC9B86089265Cee2f79c955768",
+    "allocation": "0x1ae644e1df199147c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xBD1f7d88C76A86C60d41bDDD4819fAe404e7151E",
+    "allocation": "0x1a8dc657444a5ea480",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xB92F6e68bC67C2645b990438fACc7645ad23896a",
+    "allocation": "0x1a278795af15db9e80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x6f3f44440680Cad37C8eF621F1800664febC44E8",
+    "allocation": "0x1a167520ca8fec1600",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xf5B4635f3858a2Bc80a17BD4450E05a35Ad99A72",
+    "allocation": "0x19ceee62204bf67580",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xc01D5C4C8f1Deb6B5Ed5eE63cd6E37f581baabaE",
+    "allocation": "0x19cc20e1e09abf9100",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x44E24B004BcF1124FbF2719A650dD8F2A3341D2C",
+    "allocation": "0x191702c53a07f7a740",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xecBBc62189B18902e9ABE7236eDfA7964F7E3381",
+    "allocation": "0x191702c53a07f7a740",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xC55047eA36063718AA9e4d298C327B3905A663Fe",
+    "allocation": "0x190818625af1c3f680",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xA4f6638Cde88f245B75670B510FD8e46fAFD1678",
+    "allocation": "0x18e8c20343a8f974c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x0Cf776d57e0223f47eD3A101927BB78D41Ad8A13",
+    "allocation": "0x18cba1d8cb232ae5c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x79bF225FBfd40f78B1878A6d1EeC1Bb03dF92AeB",
+    "allocation": "0x18a79e8a2d76560cc0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x107C17E07b81bC591542A5405B9C1FdF5211cde1",
+    "allocation": "0x18a124f48da457be80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x78B3367B0F547Cd16Bac453F788956AfcE92447B",
+    "allocation": "0x184837a6252a4fa640",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xCB11673592cC6C4B9584F33BBBA6C6cF07Dde3f7",
+    "allocation": "0x17a964ae2f3ea0de80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x128e5625e15FdBA91d6CcB1AbDFdC62b5d152b4f",
+    "allocation": "0x1740566e7b55b2b780",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xEe7Df7CD74e0C643710a1Db9deeEb89B527f2F4a",
+    "allocation": "0x1729d007e0bfd49dc0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xA983Bc05d29058BBec302de2De65Eb4276f40ECb",
+    "allocation": "0x1728eedd70a4dd8f80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x9327775E225a703125167EB423D246915BdC37E7",
+    "allocation": "0x1728eedd70a4dd8f80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x151a64570e4997739458455ba4ab5A535FD2E306",
+    "allocation": "0x1720b11762575b43c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x3B2c572e43B31C6718A577835A906d7fca97fE76",
+    "allocation": "0x16dc991ffea60c73c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xD8d462958Fe3194cAbb95d502F1Ad7ddcF7E0558",
+    "allocation": "0x162e4506bfa21a2b00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xD157D6f9f904879D44D59bDa39503Da7E6BFa20a",
+    "allocation": "0x161107b63749d46d80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x198A123599e65140bfefA096648D968A67c3B807",
+    "allocation": "0x15f77d3ff504855340",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xA89f778740c6562dAaC0fa1e09F48e0283A39611",
+    "allocation": "0x15b36b2bdedb9da340",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x253e94F24084612005bea067F3Bb4D8a1d89953b",
+    "allocation": "0x15708c67184c100940",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xB3582E461C652df73D393fdc2EB1E4c835b1ce55",
+    "allocation": "0x14dbb9ba854a23d280",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x98D91ac3F160E1c60a79430c8a8FE532c2bb1794",
+    "allocation": "0x14da7ef5e97cbfe180",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xca4aD39F872E89Ef23eABd5716363Fc22513E147",
+    "allocation": "0x14a8e9087bdc81c480",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x6E56E7ff87b9D28BFA3EB58Aff1C4ECC0955b25e",
+    "allocation": "0x145ecbd19c1111bd00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xCfE304E05F6d7EAaE0f6184839e0145a45c23392",
+    "allocation": "0x142e8fa0b053258fc0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xfcA5BDce638Fb8b80438bdb41F5CedcAA8893bc7",
+    "allocation": "0x1419babb552b3635c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x93F3F612A525a59523e91CC5552F718DF9fc0746",
+    "allocation": "0x1412d9552ed1a42680",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xe5fCC21BAaB8cce9BC8239c3152d3B4235d03C11",
+    "allocation": "0x13eb7d0fddacff9e00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x998487fA22BeD98c04991fA9F382078455E11416",
+    "allocation": "0x13ea51087f67788000",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xA198E245BF6929C1a1899E36BF957417143D4f7f",
+    "allocation": "0x13a7b4e730f4b03840",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xA2BF60058C0657C45FDd1741220b4A7F0DA91CA3",
+    "allocation": "0x13788168b0d92326c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x48e9760E7f684e0c70b2B880181C124b9cD4864f",
+    "allocation": "0x13700e1edb9d6a01c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x4c5472116fe8fdc491428899aa7F3b2d8e631896",
+    "allocation": "0x134cc723879e129740",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x887C3599c4826F7b3cDe82003b894430F27d5b92",
+    "allocation": "0x134cc70ddddeb8a240",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xf0772Eb66Bdb39A953273ab1F8a5A086DB247d3A",
+    "allocation": "0x134cc70ddddeb8a240",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x34caA93e617F2e22c15476A6369D15f4334803f5",
+    "allocation": "0x134cc70ddddeb8a240",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x3fAcA60011c2a73D6403f019Ef25d6bcaF44dc35",
+    "allocation": "0x134cc70ddddeb8a240",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xD30F2888E7928b52EA5bF4cb1D323e0531aFe272",
+    "allocation": "0x134cc70ddddeb8a240",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x5877Af7FC64E26c695806E2Fd7e083c8511e61f1",
+    "allocation": "0x134cc70ddddeb8a240",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x56E2d35d28D44f4a438f6B53CD4Cb8D3e596F1bc",
+    "allocation": "0x134cc70ddddeb8a240",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x09a5943a6d10919571eE2C9F63380aEA747ECA97",
+    "allocation": "0x134cc70ddddeb8a240",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xb247a77d45b9afD9e1D125891fBE932ED4132E55",
+    "allocation": "0x134cc70ddddeb8a240",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x4E61548D94C8649ebfC2f5F54D2272FcBC687BF2",
+    "allocation": "0x134cc70ddddeb8a240",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x3dc118A44E4Bde24d2D62D8EaD994C0aCc97093F",
+    "allocation": "0x133d3fa4b0458e2900",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x9CdBdDf646a86ec987394C807defEd498dBC7df4",
+    "allocation": "0x1320004f07fc557900",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xe9d74E301555C60983074264ca62Bfd7c6EFc6F9",
+    "allocation": "0x13117cfc4ad2df3580",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xE7e7f922cfc016b96658b4A5dD26F59231F3c93E",
+    "allocation": "0x13117a74b1d6d0d7c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x29687E2a2b38bbc1f4f9069f1f24F13a3c83d27D",
+    "allocation": "0x12e46b46d679af0e80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x5BF66E7b96AC308dBae5Ddc85c0CFD253996c0dB",
+    "allocation": "0x12c6a950e2aa0449c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xdcdD0a0CccC577777acEEf2987f0b45b52B2DbF0",
+    "allocation": "0x12ad05947707afdc00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x47D6F96Ba098816389DB7c87CBF077dE7181b853",
+    "allocation": "0x123ec964f789ce4780",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xbFe70e7279A9C8d8cf6c9dC41Bec72e14d8aD04e",
+    "allocation": "0x121bf5cf6acce2e940",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xC2E5329356eb06d97406260Aea056891F8477C0a",
+    "allocation": "0x11f8d44f1956e83580",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x4Ac66A0E166204321Ae4C9A99d7e81D66c01009b",
+    "allocation": "0x11ee4599d3e433a300",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x2A0626380Bf336cd9493BfeD74966d53B6b9101E",
+    "allocation": "0x11a006ac6c4e498e40",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xfe476715394F7Fe7A1aDD0bC5B45C9d6De40d5d4",
+    "allocation": "0x119feb5f03537a7b80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xA0DcB6F8203A9A8E3f60a0Fef72311f210b5f324",
+    "allocation": "0x11697aa98443fde240",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xB8EaE9F9127DB4Af769ec47D6339FEa82789dAf4",
+    "allocation": "0x115eb326147badccc0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x52dC01082fC06a78eF3910C101b7823df3277355",
+    "allocation": "0x1153b432b9daa68940",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x5429376b877772e54c9e13f7ebbAD7f243a185b1",
+    "allocation": "0x11392564b74223cf80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x9EbD5d49426ECce20ba1714C760f8140a88dbfA4",
+    "allocation": "0x110f25375b35472f40",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xE26EDCA05417A65819295c49fC67272Ab247D791",
+    "allocation": "0x11011ef5f84a028a00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xC6d85d3B70D30Fe072a6351AC8b83e1Cfc3Fa99a",
+    "allocation": "0x10d0070c7b4d7783c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x60C480856A3CC555b51A78be505c59faEE5EAc68",
+    "allocation": "0x105bcd951261571740",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xDEE31192d86A21422243D7C59C533AEFAddf61C3",
+    "allocation": "0x10501d0f344bbc08c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x64fF0Cc278739DE234eFf0574C62496534E9F538",
+    "allocation": "0x103dd4aa5bfad38100",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x1160fb1b4C936170B5f2163E03c263b5b235cBC0",
+    "allocation": "0x1038cad0da166c7f80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x193641EA463C3B9244cF9F00b77EE5220d4154e9",
+    "allocation": "0x0fe80a0d74a78c0200",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xF116569b3f888D639372a5485685A6D8EE28A593",
+    "allocation": "0x0f7d47ee4e7c6b7640",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xa319266B88444A71f9dd3618D7c7D6e525ae9766",
+    "allocation": "0x0f784ece370e918a40",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xb43db671f601AdFC83284E33ccd788E3832f161a",
+    "allocation": "0x0f728a81bf166b5900",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xf5375b04d32B553a8813de3cE76ea625803c60f7",
+    "allocation": "0x0f709f3e4b1893b500",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x4812505F744b14813d27D641c8aF4d74F13C92bf",
+    "allocation": "0x0f709f3e4b1893b500",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x00000081C22fe36e0B47a4F1C67041301F945014",
+    "allocation": "0x0f6d6c3a2472b70200",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x236884bb674067C96fcBCc5dff728141E05BE99d",
+    "allocation": "0x0ee3d1d70e19c8df80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xf286E07ED6889658A3285C05C4f736963cF41456",
+    "allocation": "0x0ed93124ae2be14580",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x49FE1F832eA70C207B6E555e160DC2df51C00107",
+    "allocation": "0x0eb57339d9bd003b80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x9497243478392B1F7f508874F606379F989C6eea",
+    "allocation": "0x0eaeee76a084d95480",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x05ac3D28434804ec02eD9472490fC42D7e9E646d",
+    "allocation": "0x0eaeedeaf58a224dc0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xab4677418E7b80DC0dC09928f05111f25966742C",
+    "allocation": "0x0ea276847fda2cfc80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xdd4A19DC351Ba42421dB282196AF38b433AA86BA",
+    "allocation": "0x0e92afba8bf8906840",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xE1d1c5F48f708aa038AA6A9976308Cd1d19D951a",
+    "allocation": "0x0e92afba8bf8906840",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xF977bF5f5CCB1BFd868BD95D563294494F0D5d89",
+    "allocation": "0x0e9207d9a44a161140",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x6C68895E429313434aD1FB3131829689284840Bb",
+    "allocation": "0x0e496a2f598bb0b500",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x4fca7eA8770eA56d3E5eb1Ce0f35fFE44F198C7D",
+    "allocation": "0x0e45de198ea6fa7c80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x61D9e931A72c9FB3eB9731dCc5A30f1F6C3ab63F",
+    "allocation": "0x0e3d01f1ccfa6b5d40",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x3b2534b8EA1f9a8BF9D9915B91bae673d161F2A5",
+    "allocation": "0x0e325402769fab1380",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x5309ccEAD59405eabECE0BddFD93e4a981522DA7",
+    "allocation": "0x0e19967872dc879f80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x776bC79274D03546050062ecC6d52A82d8c10282",
+    "allocation": "0x0e18be71f63a0f6a40",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x84F87dc95e563cb472A1fBC6cDec58E9b74aC882",
+    "allocation": "0x0e0fbbffb68dc282c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x13d89b34BD57f483f4023ca147D1f093436CF4F4",
+    "allocation": "0x0dd49c915c350fc340",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x9cd6F832f8c50a9df47c432AC095f96f011179ba",
+    "allocation": "0x0db2463b552c34b440",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xa75F9C8246f7269279bE4c969e7Bc6Eb619cC204",
+    "allocation": "0x0d8f1e8253c11d39c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xcde3725B25D6d9bC78CF0941cC15Fd9710c764b9",
+    "allocation": "0x0d828b5681b588df80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x1878c33468c1a6eEC159fabd9FD03d6b689E8Bd7",
+    "allocation": "0x0d7a84c05b8d28bd00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xE5cB0018214662Db80529bB0964094Da3F441872",
+    "allocation": "0x0d46f6c05ee5465b00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x4DFd27354901E08323b7b6B955115e06805D82F9",
+    "allocation": "0x0d427b9c42dae46040",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x8D5238eaCB01cEbCd06F4FCD7Bd321D00124ebf2",
+    "allocation": "0x0d2b85a2dc754bdb80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xc40163815512794B7a4B9aFAF300B968F1DA3AF1",
+    "allocation": "0x0d1e9d74e5fc7d8780",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x4862EbeDC8a2Da3F56EEE2CfAaC73a34c55C7d99",
+    "allocation": "0x0ce8936da5cafd5b40",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xdf631777df4DebcBcd647e85bdcB868b43663BA0",
+    "allocation": "0x0cc5c972764cc5bf40",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x380180f6D556CAE3b3a93B51D376B8c6a164a82a",
+    "allocation": "0x0cb56b7f5ebe7afac0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x48bfF3491D185bBB3a81eE41c03888d1E8035F5A",
+    "allocation": "0x0c8c84d951c2232ac0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x0C1e99991dD2f7D374Bff13f9F52284CE6cfDAE5",
+    "allocation": "0x0c8747d49290ae40c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xd5a3e16c8F60eDEFEd9fF0ED9FF82972d07e1d3F",
+    "allocation": "0x0c84cdb30a4268ca00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xbac241e35C68F1d73562792C2aE3f6de99BF584c",
+    "allocation": "0x0c5366214681215e40",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x64f8e38e19c1B6992969Dcd5769c149951018Af1",
+    "allocation": "0x0c12f34ff20561ff40",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x742c43952a9f5822446F9280F8F942765bEAb888",
+    "allocation": "0x0bfc7a6147265fea00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x77705FB36bFFe99Bb2cE067744A53722E369d59c",
+    "allocation": "0x0bfb3c15b733ddee40",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xBA9B86D84A5406762a7CC0BA5e936417976A19B7",
+    "allocation": "0x0bf609f509b67ea5c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x55257C7dDA41E21d6C23380A29Cc63BDCE7d266c",
+    "allocation": "0x0be68ef776dae44200",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x8e2A89fF2F45ed7f8C8506f846200D671e2f176f",
+    "allocation": "0x0bdf90fc7294b9ae40",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x5d2B7f517EA0C3a68E58C32f97b2B2c080ea3d6F",
+    "allocation": "0x0bd018b7f51c12d140",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xb4e352E8Af50861AB8B903dEd3307c4B1322aeDb",
+    "allocation": "0x0bcd745867aeb983c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x42f3a946dC469E90e14C2F907b9D0aea35fDB9Ea",
+    "allocation": "0x0bc6d4ea13e7ff3ac0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x80F609aDfCEB731e8E620963bd194F4DB9f56cC1",
+    "allocation": "0x0ba494f5ec747f1980",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xC2A03d1f27b1735c98d6c46Da76580e76DF063b9",
+    "allocation": "0x0ba35f0e791a2fb700",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xee1a62F0C6Fa867A062E8d33bB6969Db020969e5",
+    "allocation": "0x0b9957d4222d308480",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x56e42e67f1986dcDC8A8c7c3B354efEf57a876EF",
+    "allocation": "0x0b94776eb8526ec7c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x961A05d1A05010Ec3c2418DF6a77E3d88247b027",
+    "allocation": "0x0b94776eb8526ec7c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xA37f39c248d65f5F07A0b65550FaF63C267Fbe0d",
+    "allocation": "0x0b94776eb8526ec7c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xc8a9556508eC672f7c4A1Fa2a9EDc0326525C310",
+    "allocation": "0x0b94776eb8526ec7c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xF911f24D3033e6E0948020ace70C003943D3a92e",
+    "allocation": "0x0b94776eb8526ec7c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x4B7C0Da1C299Ce824f55A0190Efb13663442FA2c",
+    "allocation": "0x0b94776eb8526ec7c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x75A7706C8EE7799152F82B249f53F57224CBc010",
+    "allocation": "0x0b94776eb8526ec7c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xfE277Aa25A4F65A182c0ec135854794Eb7131e79",
+    "allocation": "0x0b94776eb8526ec7c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x96c07D27d239758361Afac650847d82e7d2a8480",
+    "allocation": "0x0b94776eb8526ec7c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xF2Ead634b64a36a975D3388365d180F1d0439Db6",
+    "allocation": "0x0b94776eb8526ec7c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x82f659531DEf6e3893Aa584Ca242ccD338AE1F0e",
+    "allocation": "0x0b94776eb8526ec7c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x043bd8f57401E46a5da19545FfB50370202CC179",
+    "allocation": "0x0b80f40b0fb35ee7c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x1cD7eD3a06746bec03E69574fBB3260C349bB6F1",
+    "allocation": "0x0b7edf6d576960d500",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xf17fad1fC969136311150d06791E6Ce891E25277",
+    "allocation": "0x0b7a903852cf89d1c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xb4A957feDC75650d027a83Ed992FaC013C52dCE7",
+    "allocation": "0x0b74ad36770ade49c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x2cf3213bf801a183360DF6931C31422b33566A58",
+    "allocation": "0x0b6e22106f85880040",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x781F7eD85839b4568F3eCa98F98e88DC12736D43",
+    "allocation": "0x0b58d6d3df8b3cec80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x790FC40CC10213499E957ae8D51b6d6BB771624C",
+    "allocation": "0x0b572340b4ca0fdf80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xdaF93a6a56aec45f7b23aEbD531177cC531133Ef",
+    "allocation": "0x0b52d0404b40b05dc0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x91a332F12e51a5ab2b343c6587189969b533F55d",
+    "allocation": "0x0b417622ea750207c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xe5928764B26B4dBd4F79A0D9C9441A3BA1c5fe10",
+    "allocation": "0x0b2becc9b967e6de40",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xcc52E4e272fdAA4863AdE0aac23d8741ee4E2a07",
+    "allocation": "0x0b1f24a0b5b6b11240",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xDF84B6941601d20E8b0A8FD787541709144e4C8e",
+    "allocation": "0x0af30ef5785791b000",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x01ebce016681D076667BDb823EBE1f76830DA6Fa",
+    "allocation": "0x0ae7abccabbd9c42c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x73d388E3322c45b4451Dee63d88273308Ce7fF5b",
+    "allocation": "0x0ad21c45dea5cccdc0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x38140E35FDA3F160ddb06E0637488a3E174ACbBc",
+    "allocation": "0x0a8fa6f2f1c4ebae80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x62C918dBB9cec21755BdBb7D459C3455D17f8978",
+    "allocation": "0x0a7b1107b4ffed8f80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xd2D6D5368d77127D496a0e13FF232e52dbbb79f4",
+    "allocation": "0x0a73c80d60b058ef80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x31EcE47E8eEd2594865E54E8903bCBaa508494Eb",
+    "allocation": "0x0a55a65962fb0d9cc0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x8Ac5c1CbaFc564Fbd01Ee4b116DeA85e6A593aB4",
+    "allocation": "0x0a4acb51ca63f9b740",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x3Cc6Ce92eeFB01732D88E54e7b2542E70D603aAF",
+    "allocation": "0x0a3f992f3de7500c80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x9a517B5d1fEa6e42D50e711Fa212fa8121c1F939",
+    "allocation": "0x0a3d6631b82ab73380",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xc8e660e80c403aBc85fDc9593b3a04c8fBEc186F",
+    "allocation": "0x0a3a9efb33347aff80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x0B4B17beA9073A66648C1E86aE1A39ebad27ED28",
+    "allocation": "0x0a0c8ff8f12bdd37c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x9760a139385D70162b35e17ee5ce50FE8B15964D",
+    "allocation": "0x0a0621aaa7fb8b34c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x8789332a7c737C41559D6adF0C569aa71BA0DeB7",
+    "allocation": "0x0a018d272929ea2600",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xeE420ec82033AC5350b6D633A02Cdf3FCcBBd273",
+    "allocation": "0x09f82daf36551b00c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x8468D6e438837d00C79B02Cf882A291641f01b86",
+    "allocation": "0x09f5806b3173e17dc0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x6e9A65D4a066d378d9cFb340467713035eF390F7",
+    "allocation": "0x09b2a118ad474a1900",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xECf8d1fE232fA4Ee868753bAA3dEc87d07797142",
+    "allocation": "0x09aab4ff152a32cc40",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xdce7fe83d93e0ce9666c8cf0c674C3e11B6de07D",
+    "allocation": "0x09a66386eeef63f240",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x89D022F95dC5073B7479699044fDf6E3Bc74D3b3",
+    "allocation": "0x09a66386eeef63f240",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xf54EC034555FD6bD9B0161d13e6608b7591b0ee5",
+    "allocation": "0x09a66386eeef63f240",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x3A2F4b863BE5128a8cB7BE476D160375E21D1c12",
+    "allocation": "0x09932047a3e73eb540",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x7C818D46ACEf870ea88137BF553594f4803872cA",
+    "allocation": "0x0981fb179e338a0d80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x4776C9A33f1eeB14C0C95486B10C5E0275E5f71F",
+    "allocation": "0x09545f32e3854ffbc0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x64ba57bF7977DC2c60a5C9935E01E2bc6cf638cA",
+    "allocation": "0x094d57d52d3b74d600",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x3F323EB3fEdFB319597d5B627EcAaA65A78685Ba",
+    "allocation": "0x0943defd00a2334c00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xf5Fd8041169f8B222ed70B4Ebb90A9657264cb26",
+    "allocation": "0x091a1868d385e656c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x0A1A3837beA1d3c57170D3E3638a857651ce1480",
+    "allocation": "0x08fd17d11fdb2ee200",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xDd421DB3aDB37cF735352CfEE117997ECF26620F",
+    "allocation": "0x08e0c1f704c7b6c100",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x8Bfd22d7fa34839447af3B4ED35B847DE5882dC5",
+    "allocation": "0x08cd2b306834193fc0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x5230C5f58fc32aD8995F317E5f2E97f8cB9cb557",
+    "allocation": "0x08a86f4e2ada76ca00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x044E1E9Cf2067D28a8E98332FB3C4bDE034b8295",
+    "allocation": "0x08a73c40496f1d5080",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x2B7773db0f40F1a8e8A93Fa40cE7062361aC2006",
+    "allocation": "0x08a54ebf559b80fa00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xbe843332e0A1d7476E10f42CFB5CDA5b0bfaa614",
+    "allocation": "0x0895a8694a857b1cc0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x069Ba44bFe4584ECF7E5C2346e2cBdC916bf30aC",
+    "allocation": "0x08845fde7e5522c380",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x842B1275c0709bC1cC0C6a91436fD41D7539Adb5",
+    "allocation": "0x08808bc1071ee18d40",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x65b2d54d01Bd991df14F2a902081aaB839Dc9082",
+    "allocation": "0x0879b2f02df13273c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x236Ff34518dBa76612BB571A7bAA6201D02Ea985",
+    "allocation": "0x085ad92e6889a66740",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xDcdB53E8E1123BAA64a0B7d3Da13E360CA843797",
+    "allocation": "0x0857a3e955d94a56c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xE28E2846BD064E08e7A6A8FDA27e8d6d51f087A2",
+    "allocation": "0x084c88cb152a004dc0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x98D33aeBa642151d5fb53E7966d4A0121093e478",
+    "allocation": "0x0825ff0c7595821100",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x37a2833f08384A2Bb6CdebA419b346D6487474Af",
+    "allocation": "0x081b20671aa018d200",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x15D17590E1275d54ef14cdA79147f41A2D604395",
+    "allocation": "0x0816e4af6adf251280",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xA99e72bFeD1Ccdb04218BA9D2bE5C2a0687Fb512",
+    "allocation": "0x080d03c823b246c100",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x84f918BA377cbd0385B4Ef28F6b2b6d7E9B54a4B",
+    "allocation": "0x080c97472a742a8780",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xEe07FC5f116Fa4d73f13b80D4141594bc76E4d2D",
+    "allocation": "0x07f593a03d7f02a100",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x97224c61ECc254af6a4Fb717D6B2df09c4545b9A",
+    "allocation": "0x07ee30c27426a27f00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xeD11c993Cae7Fc4aAb522c9e3986B233657efc66",
+    "allocation": "0x07ec9dadac734f8a80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x0FB537583F29cdC2a143589845036bc16fD93096",
+    "allocation": "0x07e5a3008efc9254c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x0F7a5aC69921E92a408d4bd03c53F56cDD503eAF",
+    "allocation": "0x07e2cd3cceee684640",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x468325e9Ed9bbEF9e0B61F15BFfa3A349bf11719",
+    "allocation": "0x07e0d34d4a07982ec0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x920c860252469eA6F3e430e4Af54AA5426886C9B",
+    "allocation": "0x07df7fe7bf427862c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x059B99abc4b93edC445aF6416b985402C6EE4198",
+    "allocation": "0x07ded95dc520d75980",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xD8f6877aec57C3d70F458C54a1382dDc90522E7D",
+    "allocation": "0x07db44899628157b00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xb805a4ba48E5C3BD4691B8E25685Bafd691933a4",
+    "allocation": "0x07d4d0657d674fca80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xdE0AEf70a7ae324045B7722C903aaaec2ac175F5",
+    "allocation": "0x07c4c271fd17d36ac0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xe835cA9b0e97e7BBE3D7e0DB84A6926C0677a2FE",
+    "allocation": "0x07c344c81ede670140",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xf72D580A01163B6012ae7623Df7621D75083913f",
+    "allocation": "0x07c2314cbe0e4b0dc0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x63828FF917A9798944C7868d8b27aa0056d89e27",
+    "allocation": "0x07c219913492fc9140",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xB230628e4855Da9F6C2a34B6dAe57532a08f5851",
+    "allocation": "0x07bd78c54b582bbb40",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x5522E7AaF31F828dD7D401022364338b6A57E439",
+    "allocation": "0x07babee7bc15e9e500",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x312A445F9839699e2a0bf96D0cB6c709e102dfd4",
+    "allocation": "0x07b84f9f258c49da80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x451862c9031E57dF0bE61751A4888456AdcD1787",
+    "allocation": "0x07b84f9f258c49da80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x4B2E0801a80aAf572c0C847128B7c66e2223670a",
+    "allocation": "0x07b84f9f258c49da80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x00aE252041Cc9320E882B6D8E086f723A1A70A45",
+    "allocation": "0x07b84f9f258c49da80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x282c23030b028c676eE0dF8C21dDDc727d8A17e5",
+    "allocation": "0x07b84f9f258c49da80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xE764889baD15254d663893E4f5117eDd633F37dc",
+    "allocation": "0x07b84f9f258c49da80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xB6002b0b757c45691B097CdBA266657879485E21",
+    "allocation": "0x07b84f9f258c49da80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xf7030eE79D6d8176CABa07b0f8Dcb4a40D029B11",
+    "allocation": "0x07b84f9f258c49da80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x51f24A4F20B0F4da974E2074d51b841BE19b0C1a",
+    "allocation": "0x07b84f9f258c49da80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x385D0d73CAB95BeD3B51629D4e61990ecc60bBAb",
+    "allocation": "0x07b84f9f258c49da80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x3E86eAC93A2dbB4faEB8709d77d451aeDA710eF9",
+    "allocation": "0x07b84f9f258c49da80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xd65370c5565F2bEa121F3C22823233F98A4Be793",
+    "allocation": "0x07b84f9f258c49da80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xC9A4ddBc437d2Dd5ea8a69b1d803122818a39A0A",
+    "allocation": "0x07b84f9f258c49da80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x56fb82cdF1Eba7d9d75a1c0961C49aB654B818c2",
+    "allocation": "0x07b84f9f258c49da80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xDa15a089ce396c50fdC1c01AfDB97c90cA9B0e68",
+    "allocation": "0x07b84f9f258c49da80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x1eD8B6C98f177518507A0FBA32961C45f65667eF",
+    "allocation": "0x07b84f9f258c49da80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xf9e27DFc8541c2767a38ABeB32502D4aC192F6e0",
+    "allocation": "0x07b84f9f258c49da80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xe4b6259dDBbcED6fCdAC61817c23E4785305D030",
+    "allocation": "0x07b84f9f258c49da80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xB3332FE2F1d3D4cB0E67C96aC09Fa2b267bdd4F1",
+    "allocation": "0x07b84f9f258c49da80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xa22c032262928B2B438524B72DAa72C558ab71a6",
+    "allocation": "0x07b84f9f258c49da80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x4c5f4f9dF7968B0DB448526162114a04F3462bad",
+    "allocation": "0x07b84f9f258c49da80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x44DdE9695027Ca6ACb7CDf3B361C37056122e4aF",
+    "allocation": "0x07b84f9f258c49da80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xC7F4cdb175b1885e95B8F49CCBbD3F929Ab7D1BA",
+    "allocation": "0x07b84f9f258c49da80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xAa052cdE1B431D6F8177c5cA194d98a4A6A3f626",
+    "allocation": "0x07b35ec8594b50e200",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x0f1020Dd3bf19518CB836B6107403AB19d3C4EDf",
+    "allocation": "0x07a356310b30d68e00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x91f6F271E8f314F1846dAc54B6F8f455420468bA",
+    "allocation": "0x079586e6d99517ac40",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xE230913D4Aa79E7F9dA2a1D3eA3b0bF7de9a7B51",
+    "allocation": "0x078e914f88fd8260c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x2a87E5CbF9Faf5B63A23Be53D304254748b90356",
+    "allocation": "0x07878cf4cad5f81140",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xA6aFfE72E14589e5aC8c0D588C99c3A714530171",
+    "allocation": "0x0784d3330e78e30580",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xC0f48A9195b369e2c10E4CA175E44b9EC753ee54",
+    "allocation": "0x077d058d9280612b80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xC4A6c6d69d95A4D36377e3b1B653c7F584709932",
+    "allocation": "0x076a3f2a23efd61300",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x2187119E30603d27B59C8FdA7aC1a695A669203C",
+    "allocation": "0x073afd018f8479bf40",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x024f36B02608a5129C61F8df54dc7286F9113DEe",
+    "allocation": "0x07280807ee53034c80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x09F50D586E073974afd81f67A89D4069BecD400D",
+    "allocation": "0x07230f1c4d0b70cbc0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x76b11E445A3a459E141DB14AeBc611B2b279D4E3",
+    "allocation": "0x06f5dd46e69beafcc0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x806388E04b7583a0148451A8ECd29A748b8fd584",
+    "allocation": "0x06e62cc85e9c22a100",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xF91Ae60703c8BE0B12706f810A459f9b61F199cF",
+    "allocation": "0x06cd5c0486916ebf80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x516fCA170bfE24BFC54e01F215EF85Fe9B5B798A",
+    "allocation": "0x06cae6156d6ba81600",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x0CAd1d5ea8b4EeE26959cC00B4A3677f7A11e40F",
+    "allocation": "0x06c6221b39edbee5c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xb0433a329B2Fe3D4a15B933645C01782D923Fd42",
+    "allocation": "0x06bc0293024241a900",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xB36a7659A3457d4454aC4E3241995802603CAF8a",
+    "allocation": "0x0699bef4ded2cee500",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x4572581Fc62D4477B9E11bb65eA8a1c306CbBa3D",
+    "allocation": "0x068dfee318f104d000",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x730f5aA984a4e8320435D76dc68091e09aDAF06F",
+    "allocation": "0x068248fea89af7cac0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xfBf574892665BBa1279E971268590cc6266aa1A0",
+    "allocation": "0x067bb836f8375f7a80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x7e4c3f2751A1dF8e2526cFf72133AbC0cf6A06e8",
+    "allocation": "0x065d96189e5d92b040",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xc4590e9DBCf47CB55F50EC2A504c026866ED78C1",
+    "allocation": "0x0659840c7f85ed3d80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x030138D2f5f2757daAe2FbB8dFd18870EA908881",
+    "allocation": "0x064cc6f3acb5b4eb40",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xADAae0CF49B422fB24cB988d669e77F4E015608c",
+    "allocation": "0x063c151e3a76624dc0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xdFd9945E82aE729deabDB0C1d57a16fb884CAD83",
+    "allocation": "0x0628d68a3e870eb140",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xd7B37D847C0d6Fb2eAE580e7dfa30c0253f8eD93",
+    "allocation": "0x061d958c4356ea4a00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xD73C8DaA6957aB3221A5c83DA29D2e3300F8998f",
+    "allocation": "0x060d00c0507ad3f240",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x97bF1A16f366007FACB07da02Df72C5E9ED5803a",
+    "allocation": "0x06062a6ed336d7ec00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xbA0D6D3245C87fd89a70435d72ac3728039bDFc3",
+    "allocation": "0x05ca3bb75c293f0500",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xDe194bce96574cE8721f641552E8725508cFeE87",
+    "allocation": "0x05c5cf24035426d480",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xa06137b61301AEbfA7b6a0C8939d1e8528045782",
+    "allocation": "0x05bc127f423f62a3c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x5189A6Fc09228b73398EbCa1E84eb636ff7b56A0",
+    "allocation": "0x05b0f3fdcc17402640",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x05e1D03F9286E4aa9e676243619cA73cc250bcda",
+    "allocation": "0x05ae9541a7d8474540",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x4d39a1758e3f5008123F81D4c1d2fbAA6Ee27Aae",
+    "allocation": "0x059c8a756d72883200",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xE8FC4188c56dDb766916D76D1EACa85d8b8efdb3",
+    "allocation": "0x059460f876980af580",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x410DCF5bc94A68C8de5Ae99c18A89a3a8946462c",
+    "allocation": "0x058dc3514abc508bc0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x099500598f7b16cAdC124775bdd36Db354eDE1b7",
+    "allocation": "0x05894c234123101c80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xfA2167f72E23d818637e265De1351Ff26f1b2589",
+    "allocation": "0x057e52fbce112dc9c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x673995c0d74115D01CA9D051e130885d0dAc64D3",
+    "allocation": "0x056c56b89fbd941140",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x0fdA6Dc6b11C2ad70d496e9b08FaEe66F5de6177",
+    "allocation": "0x054ca36d7d143e87a0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xF61397E4b0FF46E78b34D5f72B49b4d46e8c96DD",
+    "allocation": "0x0549c5e69d8f772220",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x8e919425BAa8A813FCaf5d6Fd5d2E5AB4f97fED0",
+    "allocation": "0x0542bf16af86d48660",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x44A4212ac91767708Ce8a6e41a43f18181def77f",
+    "allocation": "0x0535927ad9bb31f600",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x8130512C423fC1FB5fA4B6Ac741285A6c7D7F55b",
+    "allocation": "0x0534089be7a4b3e660",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xfc179549D061fbcEc93BcdAABED4f41CB1ae8C56",
+    "allocation": "0x052929f68caf524880",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x364F7Fd945B8c76C3C77d6ac253f1fEa3B65E00d",
+    "allocation": "0x051dbf77c30ef886a0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xaa8bbCf4de7CCA4DABE1d82681D2343bae9d4123",
+    "allocation": "0x051895b9b1c9dbee20",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xe694574FFF63E4333E76096Ae42B5F7eb89Dd679",
+    "allocation": "0x05039d2faf8e316920",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x5E0FDc5A4A74C962C0c96fD457bb494B10d84a50",
+    "allocation": "0x04fe997e55098ba820",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xA9fFA6B04565e9Ef06271ae636CECf466D637201",
+    "allocation": "0x04fd21e6584c53d960",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xd146aC8DdC2520dcC60674722e776728958f9C91",
+    "allocation": "0x04f8341f4ddd1d0c60",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xe0bc4DD07387B495Cde6c39D8041fC0618fA9FCF",
+    "allocation": "0x04ea6d3aafa70c6460",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xe965fbF5ce2D69da6B76d375638872A77880d62a",
+    "allocation": "0x04e9ddd19ab4bfada0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x073449E7f3a34b9ad150f0522A47424A9dEF6850",
+    "allocation": "0x04dc16794d86450620",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xad5a6Ad4c746290d363D8754Adb20ff885aC502F",
+    "allocation": "0x04d95229f9dcc16620",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xa4d840c5861bD43Dff4A29Fb84cF92CCc421F11b",
+    "allocation": "0x04cfd2aa8258ee2740",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x0b01576e6472Af5f0aBC0f02bF6228f067bb23cE",
+    "allocation": "0x04c5d7dd0e09ccd3a0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x63421Ae93c44f5F3F58B7e3AD1245e955DB49897",
+    "allocation": "0x04bc274bbc3b9920c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x6095B2d9C184f57Cf7fA0C0358de34d09e2594B9",
+    "allocation": "0x04b5460d73431bbc00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x06F90b1DCa40Fc0A4646C95600065aD7Df48BC5F",
+    "allocation": "0x04abab0d156fc288e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xC7e1D8510968C63f41C668f23D35c709e94779BA",
+    "allocation": "0x04a3c82a4276d0e140",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x17F49979B199Cf519a68a13AFC5ed3f4187A6f5D",
+    "allocation": "0x048eaedf7cefd240a0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x63829da9dc103B63D984391f7580edDB220Ba6D9",
+    "allocation": "0x0485c0ad1be15f2860",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xdAB15c1E08717c43233ED009e3EeB86e5071A1A0",
+    "allocation": "0x0483374823d26bfd80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x7254b7e51D9305cc7Bcd4510A1D556363385159e",
+    "allocation": "0x0482ddaeecc008a500",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xc91502004Bad692221d293b98C3CD8cc5E0b9025",
+    "allocation": "0x047f5eac92e9e5a500",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x44cF78e365a3CffEd54b7F2d702C2C6239276fa3",
+    "allocation": "0x0474dca3bacbd3eee0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xEf18d342FaE9c175E02A4Ab6eD3A7D63F2255AC1",
+    "allocation": "0x047060fb8263de6dc0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x1EeE136Ee6FF810910cdA2419614Ec51Cb741C7B",
+    "allocation": "0x046c2a057e65002e80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xC9a238405ef9D753D55EC1EB8F7A7b17B8d83E63",
+    "allocation": "0x0469a24a715aece340",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x9da847cD29d0da97fBFAEe0692d336857CF00cd3",
+    "allocation": "0x04636444ee3fa32760",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xa4fb8f10E99A0762CebEBfCF3c69d20f67742C5b",
+    "allocation": "0x0462602f861ffd8a40",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x490461d50105eE1D3F170EdC5f164A754c9745a0",
+    "allocation": "0x04602a9f6e88d03020",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xb4646f56a0f8d7A36ba19A2956060F70F61480de",
+    "allocation": "0x045d2bd9ab8e517200",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x7E9b3F5a1E3e148064f1a8474e7e0684859687b6",
+    "allocation": "0x0451f802e4f3dda440",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x4D00AF255c2886dA69287c6FADf059AC874E1933",
+    "allocation": "0x044e49366b040fac80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x44a529F72C9F5888C69e0F4A2614D91fd289aF7a",
+    "allocation": "0x044dc8d6d32dcde320",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x304038fEBdB021f36CD5D11f69fEAE36C166ff0D",
+    "allocation": "0x044c99c6e4fba1fb80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x34Cc0DcfA7c40BBCa2B2b00E0E0dCE1C708f76Cf",
+    "allocation": "0x044b08aa1837e6da60",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xCd9215398Ce6992bDB381dEC8c6250c98c10A1A8",
+    "allocation": "0x044aa9337c86297600",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x9cEAD5773F576E9aE649251339B5F71C21EdEE3c",
+    "allocation": "0x0448da45205bf20ac0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xcAdA38b3D2e3d8714E783ae8C420B4024817E3E8",
+    "allocation": "0x04465bbbb84afcf4e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x6442c72aBD1a9d14c303277a8C994Fae295b6BCB",
+    "allocation": "0x0441c86a21df3dfc60",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x039ec0b36450E9b2c5f59A3A6FE991469ac744F2",
+    "allocation": "0x043ef89787d9f6f200",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x7246A274656E797FaB4b02Eb1E0581D46F0358e2",
+    "allocation": "0x043ef89787d9f6f200",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x0C54d54F8371017473B2d5AdD81908B775b5a800",
+    "allocation": "0x043ef89787d9f6f200",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x03bbaFE60Bc8DBfF223d27541cE9F2bD494582c3",
+    "allocation": "0x043ef89787d9f6f200",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x4Da9CF8738366fE1484D33C485746f2053Ae1466",
+    "allocation": "0x043ce14fe1212ccbc0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xEDe4f636Bc9ff333b01C26ba8a37D13B82E40214",
+    "allocation": "0x0439d831e5e38952e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xd76fF76AC8019C99237BDE08d7c39DAb5481Bed2",
+    "allocation": "0x042f2fb8ab87ae8460",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xD3443514C851440060ad8DcE2E6319066F88D9c7",
+    "allocation": "0x042b4a2e08a34c5100",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x8F1871170FDC37aF79756A7a7B08ffD630423CbB",
+    "allocation": "0x0428d94cb9a4d4b380",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xd813A52b1158FC08F69bA52ca72CA4360E255Ba3",
+    "allocation": "0x041a68c86d2c3b1120",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xF01670D1C89b3b33B1E2c4329f57E8823c0a6e9B",
+    "allocation": "0x0419d2b66224545740",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x61AeE4FEdEA3cDb2010C09F66234e90282d93C44",
+    "allocation": "0x0419404c416f4a1c80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x08a2615Cf81852d6e31b6EEB7c3d3b613be8ab99",
+    "allocation": "0x0416812269a9b1adc0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xED4A59031e82296ED0Ce0E3E1Bf0020A5570150d",
+    "allocation": "0x040d90338d500defa0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x5A55aad519556A40Fe4546f23a07500D2379cFaF",
+    "allocation": "0x040d90338d500defa0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xeb59580FF6B870B910F989F92D129958e8C3c861",
+    "allocation": "0x040d8fdf27e3dca420",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x4679c6a025c3385E6b842dFA7A3d2831fa3b1Ac5",
+    "allocation": "0x0409b7b833ed286ba0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x2D0F26aD49D8ADc13eFc9E44741161B9A3F03260",
+    "allocation": "0x04099c54838276e860",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xbbf7bfc4d9aCce27082613e2C14d9Fe8d1a54A29",
+    "allocation": "0x0406a56d3c2844dfa0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x15bc24Cd1f69382118cDeb0D2eDB7b175759C81B",
+    "allocation": "0x0403ae85f4ce12d6e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x91f9adc2Fc049dc33C7Fcc6a8109150fE283D73E",
+    "allocation": "0x03fdc0b76619b04c00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xcdb7361E0793350BE029F2B1139621597e4CB053",
+    "allocation": "0x03f8db47bbbef06a60",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x50D52d86458f73005858a9345CF4ce89E5a6F410",
+    "allocation": "0x03f8763c6c3941f9c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x9e331AEE9F82b25078f7bB1581fFa8383ad84944",
+    "allocation": "0x03f65f7c9afaa58a00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xCed34c803F394dCa295a2641c31C7Fd01b60ffaD",
+    "allocation": "0x03f24eb0f98228be20",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xFDB3E523fc6F0D93fce8e57e282c503c5384d08F",
+    "allocation": "0x03f112edf52d6a7080",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x151d3788265259F2f9f834dCC796faDa5082d704",
+    "allocation": "0x03f095247d0739fd00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x4273c8cB546A6d068a3B92C020247A96518468eD",
+    "allocation": "0x03efeb2ac3ca1ca560",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xf797485cC069a3910cD5d0eB5E168eEB9e8b8b1b",
+    "allocation": "0x03ee125b5827f34740",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x94228872bb16CBCDfe010c42a8e456d15B366bF1",
+    "allocation": "0x03edf92c89645bab80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xe3Afd4031a887C02E49E8465f00b79Ba316b595E",
+    "allocation": "0x03ecb2ce2ca6cd4da0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x2718E86f5793Ac08bd3C4A301382E8c1DA2a1e30",
+    "allocation": "0x03ebe9b22b32a7d3a0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x38430336153468dcf36Af5cea7D6bc472425633A",
+    "allocation": "0x03eafad2bdc6c4e420",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x01Eda16F6A6C3B051eCC63B0d93c8c3A27491dC2",
+    "allocation": "0x03e7eed24f376724a0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xc47E00aEB69c3fBDb79201270deD5a5066832A81",
+    "allocation": "0x03e72ee36c0a77e160",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x0321e693Bec2394C33a0b4f101d1120Ad3cF1cf5",
+    "allocation": "0x03e5e585e67f9780a0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x28552Ea8B232Fc63d6ce69692D8A723eFc5D4502",
+    "allocation": "0x03e456471dd5b25ac0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xD31A3C076EAbDA08d3b31ED32da43bF1b2f6E4E5",
+    "allocation": "0x03e1ee1670bda79000",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x0d117fC5a742E1CaaaEa3aDd9fAF6ec4353C65B5",
+    "allocation": "0x03e11875f199c83860",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x8Af6Ec0CdC9B4bf2A489Cf6DB7eCD961dF3c00B8",
+    "allocation": "0x03e11837499c4b0a40",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x0F585d3a2F9D46433CCE13E68377689A73868f75",
+    "allocation": "0x03e116805d67bb0ae0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x0A251dF99A88A20a93876205Fb7f5Faf2E85A481",
+    "allocation": "0x03e111abb984be8720",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x3F7C10cBbb1EA1046a80B738b9Eaf3217410c7F6",
+    "allocation": "0x03e0b59de42f49a0c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xc342F7c195DA20E55bB0ccEF4474A6CffF31DD5B",
+    "allocation": "0x03e029404a76d24a20",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xf85cbCE2F34cCf3AA28566B7c4286E2300CD8d89",
+    "allocation": "0x03de5696c5f1b27060",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x3c6cB1ba741d0d1e4454f0BcDb246F32f6E1351A",
+    "allocation": "0x03de05a2fced7f2140",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x17D4e66760dabFb2a64f39810C43C428de256085",
+    "allocation": "0x03dd91490d687e8b60",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xD91a1d28569e494A1441b1709F46Dc69d36C8c72",
+    "allocation": "0x03dc27cfa757a16780",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xba29FAF969A0252bc58bAB0c8B3d52B162470345",
+    "allocation": "0x03dc27cf92c62673e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x817Dc2224F55cd1DcD82cfA7894267CD8da60257",
+    "allocation": "0x03dc27cf92c62673e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x126CE873371c15A664306a387cc2329F67Cc515b",
+    "allocation": "0x03dc27cf92c62673e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x0D9b7C19CF1A55ABD4458634752751840576156c",
+    "allocation": "0x03dc27cf92c62673e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xA178c15dd95553da5b79c1BA0bDE1659Fa2e76c8",
+    "allocation": "0x03dc27cf92c62673e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x36de990133D36d7E3DF9a820aA3eDE5a2320De71",
+    "allocation": "0x03dc27cf92c62673e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xd29F3eb4760EFdE9a7FD508a564d9F9E338D1e5f",
+    "allocation": "0x03dc27cf92c62673e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xB412c06844F87b57E2868076C563E84EF980017A",
+    "allocation": "0x03dc27cf92c62673e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x28fe46db880072E129816EE2BCE5BC5a9712A058",
+    "allocation": "0x03dc27cf92c62673e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x49BE89682318bc5B79fCf33c51eE2bc518FBa992",
+    "allocation": "0x03dc27cf92c62673e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x11B1785D9Ac81480c03210e89F1508c8c115888E",
+    "allocation": "0x03dc27cf92c62673e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xF2B7C53c0e91Cb2A7C74528E0e032DbE9b25f116",
+    "allocation": "0x03dc27cf92c62673e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x2b614ecc9e91aF9D056EB8ACcCF5D9928A7cF4F7",
+    "allocation": "0x03dc27cf92c62673e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x50744d084B66e0cf498A5F078c70dA02691c8AAc",
+    "allocation": "0x03dc27cf92c62673e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x939696E968998CF5b74d64CE4aBCC822D8b1B77f",
+    "allocation": "0x03dc27cf92c62673e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xD24db0BFb387b0ED05F757e5F3b9cA1C59a82605",
+    "allocation": "0x03dc27cf92c62673e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xC53E7040ce1D891d59f67CD2Dff36B32d4Db1f80",
+    "allocation": "0x03dc27cf92c62673e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x2059a96525c364560A806Ca035a40C9F379eBcA9",
+    "allocation": "0x03dc27cf92c62673e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x773ef578FA95a36D5D2ce1d07CECe96311BB3544",
+    "allocation": "0x03dc27cf92c62673e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xFE35e15bE885750D9b2363cbB6aBDd57AC9C4c40",
+    "allocation": "0x03dc27cf92c62673e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x507319A359D8AE60Fbc644FFfC4FaBefae89625b",
+    "allocation": "0x03dc27cf92c62673e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x27CFc88640089f340AeAEc182BAfF0ddF15B1B37",
+    "allocation": "0x03dc27cf92c62673e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xb3cE6F71B96d8038F873968F410569d23dB68cb6",
+    "allocation": "0x03dc27cf92c62673e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x17f7B025b9abCB7b83Aa9F6A2Bf27840ACf20563",
+    "allocation": "0x03dc27cf92c62673e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x9119Bc87389700B8970dF51a810DD8fA4DB38264",
+    "allocation": "0x03dc27cf92c62673e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xecA43946DbEEeCF791cb8Ff330F2d0c415934184",
+    "allocation": "0x03dc27cf92c62673e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x29FCe0d2db8B5147d6355AC7f68089a4E6Cfa986",
+    "allocation": "0x03dc27cf92c62673e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x8eA8211EFE3A89d6A55278Fc0f687E8394Db962D",
+    "allocation": "0x03dc27cf92c62673e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x210aBC3a06E51aE23C730B40e6Fb36569568389d",
+    "allocation": "0x03dc27cf92c62673e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x011eBe45c131e87e187d185B842FaCAD9e8e9DD9",
+    "allocation": "0x03dc27cf92c62673e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x0D78a4B2657dd319AE1f47cE5e529d03E984CEF5",
+    "allocation": "0x03dc27cf92c62673e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x34e755E794E30960B07AeB42223A750aa56AB42F",
+    "allocation": "0x03dc27cf92c62673e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x5d0a6fea600d27161649445e5941EA75feb6D466",
+    "allocation": "0x03dc27cf92c62673e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x67A122e18BBc259DbA299b8259b102D940f07420",
+    "allocation": "0x03dc27cf92c62673e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x2Eca78074893f46136472620e2d1d64b5D877686",
+    "allocation": "0x03dc27cf92c62673e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x9d9E8F28A8Df0D590d7c23D3d7b02e6954073f4B",
+    "allocation": "0x03dc27cf92c62673e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xe34e1FD01F5D2d5533a586941F22dC8D4894a0D3",
+    "allocation": "0x03dc27cf92c62673e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xE2f46cf35aA1077dE5163867E1f73A97Ef960590",
+    "allocation": "0x03dc27cf92c62673e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x6e65bA5D32Be0466dBB212A0E7A6ce13aB4bA52d",
+    "allocation": "0x03dc27cf92c62673e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xdfaD0c01a28d9d95486bb3f0821E4F5644704FA7",
+    "allocation": "0x03dc27cf92c62673e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x3720302e025CF81C8d18AE98Dfa44eae665e522c",
+    "allocation": "0x03dc27cf92c62673e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xC9ECf35B2E63C9Ac579F260d694e549565aF3bA1",
+    "allocation": "0x03dc27cf92c62673e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x5b655EDa7D101f98934392Cc3610BcB25b633789",
+    "allocation": "0x03dc27cf92c62673e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xB6a312b525DE98cBd6C73a63e46a1E9aCb835c64",
+    "allocation": "0x03db755f149885a6a0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x01fF3a6ae27F59Ac1A706568749aac2632520008",
+    "allocation": "0x03da4d929e0f4789a0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x6a983E653d6D7C81fbd29Dd7cc638b6F36242d08",
+    "allocation": "0x03d4be8d6064a95e00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xEabF7dec6253f3DdbcB70a93FA9a5d6470F6CF74",
+    "allocation": "0x03cd52c395072404e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x86B2138bEfF61Ea548d173df76D85B903420F373",
+    "allocation": "0x03cbd472bff0f20dc0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x8a33B3a47810FECEfe88675bf883C4C7C9FcfBFb",
+    "allocation": "0x03c16b01ffb1671dc0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x56E6c22Dd85F6329426d336ab52D8DAe83a75fE2",
+    "allocation": "0x03bfe70eabbb635d60",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xf728D573f0E5441DCc37a63F819aA960E7337Dce",
+    "allocation": "0x03b465a60978057680",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xb1c0D822e2CD6d564D71B50aA02fdeE9D198943E",
+    "allocation": "0x03aaadf5f1b70db600",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x67675b30AD36B0Ca29d40dCc2FE23e0FdA9Afb9c",
+    "allocation": "0x03a8e914ca1e402300",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x1e955aa345DB4AF2c9f2187283693fFF4fb541f3",
+    "allocation": "0x03a0ddbdffba4258c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xE99Cecd03feeB99061D3562cAC7C27166d7Fb9c5",
+    "allocation": "0x03a0ddbdffba4258c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x832799C483e1F1ecD4e6bbA7f042e99161BABDFD",
+    "allocation": "0x039fda487587677ec0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x158275965837d6f85aC7a1758e08d2Eccb64459f",
+    "allocation": "0x0393bc0a444f8f25a0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xb0359B486889def3063FDe651E5aF71f5CF3B24a",
+    "allocation": "0x038c26f670f9345fa0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xb017914f4bCAf9fc600ffB92c0964ebbEe16220A",
+    "allocation": "0x038acfd92f15cf1900",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x5049078C33E670bF29C61042f13E18442362d55D",
+    "allocation": "0x03892683c4e8b39960",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xd14a57df1dCC9aEf3bcc9c391a791fC901540194",
+    "allocation": "0x0382d2efacf523c5e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xd4cA6Ff3DD02BaB5036D217Ff7F87E7Dad6d9066",
+    "allocation": "0x037720d8b2fc2ce840",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x1fDf910AD3F7A9a066B512ce7c28268b6cD3b031",
+    "allocation": "0x0373f2f4cdb4d9ec80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xC7857556C226b0e61bb18EB8Dd191bE7E1ee8Ad3",
+    "allocation": "0x0370c933ccaccebb40",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xf674EB4Ae5988Df306CACe228E40139CC216198d",
+    "allocation": "0x03611be5d42a8d8ec0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x796fc877766FdAa5196A35DAE0Ee9E2C3ed1f78f",
+    "allocation": "0x035cee0711768c3660",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x0BC1F938bA8bDddcEd576d0371a9BCC0aAE243b4",
+    "allocation": "0x035c3cec1394dfe820",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x8295f58F004A21793F33F7cB7129E7Dc9948d741",
+    "allocation": "0x03492d60ef34b4fb60",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x63346d7367D4bA9cd1FF45d7B900B32EC4f73D5e",
+    "allocation": "0x0344a94c2960eefae0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xfC1D3399102956F37A9dd17898688bA4E2aa19E2",
+    "allocation": "0x032a05a41463dcd720",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xb79a3ccC512F1C83e0592Db79B28F6CcD949b048",
+    "allocation": "0x032558c40d617e1cc0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x5ac1446a61c52720931048Da5eED57Eb497B0129",
+    "allocation": "0x03252c815024bd2640",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x95aa6CF80aa61c3433215c7b8330C065eD29CE97",
+    "allocation": "0x032217c0fd97239460",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x7cA0Aa7d9f1779542b2fE9c900fb4432867B9566",
+    "allocation": "0x031a7559be0d604840",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x4ca790b2C94Af33009F5E7E2A419d766d77AA88A",
+    "allocation": "0x0310b8b68cd72eaea0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x5017deBc066df702Ba3b085F2EE015E79Ae24500",
+    "allocation": "0x0310079144cc7faf00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xbA56F6da7b741ceC307c30E5BE80c04cD08e72E3",
+    "allocation": "0x02e8da44436d2a6560",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xD0E2dfD004A6789068620e900Dd9A69F6D82fcb7",
+    "allocation": "0x02de3bdb99e14c7fc0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x03Ba4b9973039D6e7FE93C34535caf4516EbaA3f",
+    "allocation": "0x02db3c2e1592a15c80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xF938FD5535354748c323d9b1ECc833769B14CcBC",
+    "allocation": "0x02c355e206bd135b20",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x872aFA060093E1ec08ABe9311aD23569d396ad41",
+    "allocation": "0x02c2f0a77207768b40",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x8642214d3cb4Eb38EE618Be37f78DD74a3093869",
+    "allocation": "0x02b7a956bd584c00c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x6B1DBA4494147bbFcF3575bBf509b8000d31feCB",
+    "allocation": "0x02ab20b1f2fecbeaa0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x7Cfed2A2d4a98680daC6aA55120f5AF2EC562EbD",
+    "allocation": "0x029ef92f52baa6fc80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x78dD65496968fB7dEFbA6F19f36B2996B32d84C9",
+    "allocation": "0x0284daffb37f94c980",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xD2a4F082A6e7B754aE11FE76616A6083DE478c70",
+    "allocation": "0x027d8cd9e5802c1d60",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x502FcE03Af4bFD3dc991A6f7d0523cB920E1DBC8",
+    "allocation": "0x027b1658b3b0ab9960",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xD18e09e4F5fA8C8e881F9DFcc52a3e6613561f1a",
+    "allocation": "0x02771b72e5fff2e120",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x413A9c69dF59288ef9A7Ebe78a2033DD2F3E1af3",
+    "allocation": "0x0262f736fca16ff320",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xf476F2f78A4b800F61fe5A2DDe49Cd8c03d63C7A",
+    "allocation": "0x0261a37fc07ddaf560",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x71A0Adb369DA76e300A9eC9f6e1ffcBa6e185182",
+    "allocation": "0x025d4714e9adfe0860",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xC095EE11a9c4fa28ED26E07C602B4Dcf8dAf3AC2",
+    "allocation": "0x0254c098631a4353a0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xb7C0E68D6Ff9dAb41779aeD07462cb22fE087c74",
+    "allocation": "0x0250e4afbe76e2f4c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xa61301A5199671aB6C5d2E21c718fdDBDAB778E3",
+    "allocation": "0x0243ca922be7c00e80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x0C133DF3EF597Ee4AF29406D82f1D9188cc9c228",
+    "allocation": "0x022d8118d9595a6080",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x98Ab46ED99D9FB663bd79854eA2A6CdCad2163B8",
+    "allocation": "0x02247a6034b76c4160",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x3D6F6268b62c401A0e417A853098d097Cac78F2e",
+    "allocation": "0x02201edd27f1bbda00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x0a8f3D9364FFD3478EC107472286e13A34a9d0FB",
+    "allocation": "0x021a7a6a795328cee0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xEa89139D7a424A46014D4A3a51504b4C93811888",
+    "allocation": "0x02143c0b88c8863e00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x98F8193394791fA8A34237f8216D236405acbF4c",
+    "allocation": "0x020b6ef52f92338280",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xb305acB336AF101039c2A63BD3E6de05d72303A0",
+    "allocation": "0x01f5fba5dcfe420bc0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xc233397073B6901A69f91A60168E1BdB03FB9925",
+    "allocation": "0x01f0614ae61409a5e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x7A05Ace8D3B5d4dC2EBB945f6F39349a499a29b0",
+    "allocation": "0x01f00dfa5f347c6720",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x4d8222965D7AB82c5C4EEd9aE7d55448C22c15D9",
+    "allocation": "0x01ee8a8c1d291122c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x146F152Ea0A0c45CB7AA03Cf5ccC0EdE24119546",
+    "allocation": "0x01ee13e7c9631276a0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x23A1718dA41A53C320cc9b0D5a2c7025b6C7E0e9",
+    "allocation": "0x01ee13e7c9631276a0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xe97Ea3CA768C930F1e77F159153c945265bfee00",
+    "allocation": "0x01ee13e7c9631276a0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x62CB4e2bD1dD031E30B4E4032942113C682777b2",
+    "allocation": "0x01ee13e7c9631276a0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x90966e5D16Cd278f0C84A99069901668A85C7104",
+    "allocation": "0x01ee13e7c9631276a0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x439917a5db9061424c76630712012278CD0CA652",
+    "allocation": "0x01ee13e7c9631276a0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x6797Bf153870a00F97d881eddeAd6341a3DD8954",
+    "allocation": "0x01ee13e7c9631276a0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xF857e5e1554e0eCF2a2a3581BBC777d95c5264bD",
+    "allocation": "0x01e6972b16a01fcf00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xe794D5984A278A5Bcb84097AA93b350A7865e903",
+    "allocation": "0x01e53bdcda003a9c40",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x099F8498348792AbE502eC12f6163254dbBe321E",
+    "allocation": "0x01da0c18241beee5a0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xb80a8A222E9eeC886247cb6624FB48F7d37b3253",
+    "allocation": "0x01d58ab1e9f4fb9fe0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x22B09db9E147F1BC4091b1010AbB07CcD15D6429",
+    "allocation": "0x01cfb9ceb17bc8dbc0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x3EbDb522301913A5203315c8A840A9Ee99cE9eEE",
+    "allocation": "0x01c7b18b3556422520",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xa49C321A905E172e6EDB397fe68cb65f6549E01C",
+    "allocation": "0x01c66517d84bdcde40",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x1385c9501dE747c673200151C949791270bEa307",
+    "allocation": "0x01c355b81c779a4960",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x3CBD3d635eBfc6dc3Dc3e3A71e2B36123B66E891",
+    "allocation": "0x01bda87b914c8ff960",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xd606424168D1F6da0E51F7E27d719208dD75fe47",
+    "allocation": "0x01b981a929dfa9e0e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xbE61359a90EEA3Be6b8169Ac2A098B0945e1D556",
+    "allocation": "0x01b35dceae939cc7a0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x4CB5E66d20e8D2507994e61010f9a89F3Ea4F59B",
+    "allocation": "0x01b235e96d55053260",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x2cD7001f9f658Ec784176BDC3289b13f138f7a52",
+    "allocation": "0x01b00ed07f8ed0f360",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x79635b386B9bd6636Cd701879C32E6dd181C853F",
+    "allocation": "0x01ad2a89d8a14f4480",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x1a34F1bC80709798B026e9F39d09BD0ef4F733E4",
+    "allocation": "0x01a392b0e2c8b280c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xaC3E015877f661a9f75391B14E0107B5D995EE38",
+    "allocation": "0x01a05cedb371e89ac0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xAcE0086da2ae12bc6e19610719FCB822D10D665d",
+    "allocation": "0x019de220cf10030bc0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xDb25f693BEcEAfEBdf4EbA481B57Bb3CcAc950Ac",
+    "allocation": "0x019843af70fa53b680",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x8155b89B9Eff2AC567cfc4ea4A370dadeA748902",
+    "allocation": "0x0194cd1716354982a0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x561ecFCf990ffcC6c8F843C59170f80160F92479",
+    "allocation": "0x0193c19c90dc3b1cc0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x8F74A2fBB9dCBD3fbeF4cc02AfCDd14BEce0c542",
+    "allocation": "0x018b431fd44f41f880",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x8cCcc024e9bb9A9C4438fB7A2fdEfc2bD8Fe1863",
+    "allocation": "0x0187250ff24bd3ef00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x78082d8DB5a648E92950C3Ebd9867eDC7Cccd19F",
+    "allocation": "0x0183e08ca8699d2980",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xe6fD97B1EFFcda6b946C3a4b9Fe8EcdBA2b7F05f",
+    "allocation": "0x017e75eba3a03f06e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x731470Ff567eb0D6288FdA4A50b7059E70a7b4f9",
+    "allocation": "0x016e34781c653ea380",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x3fA28980FC0b62cdA392863DDf916D1c342A40AE",
+    "allocation": "0x01685b2d69ff68c940",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xE0e67Ff8EA9e23263384F5076b6AFa79859fE985",
+    "allocation": "0x016090629e406ce0c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xA84944735B66e957Fe385567dcc85975022Fe68A",
+    "allocation": "0x01489b98fee5bd0580",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x47dC5e0ED9839CD423CD1ccf3D9dA97862CF7F3b",
+    "allocation": "0x0136a0de4f01137480",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x5e6074d59abCee40951Fe8212be1Ea3E7644B677",
+    "allocation": "0x0133e6bf01460914c0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x1aD53d65A8DD2dAfe6bf797275bbA4Fd95900feE",
+    "allocation": "0x01287257df3b717a60",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xc47C1eCD80810f6f2bf50AA9c2a580Ef7978EB55",
+    "allocation": "0x011d7978a820bac100",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xce27Ba6BD681920Fad0D2dfd3BDcecA63876E708",
+    "allocation": "0x0119fd12ac39bfec20",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x0e06325F6f13E5526CAbAEB5621797DD3264CB57",
+    "allocation": "0x01178f6e352e540be0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x5aBc5F885E235c30F99c80B9Da8d21f85f65AEa2",
+    "allocation": "0x0115a569650695f200",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x26da2365ba9eeb887ebc7B19172592205F1091c4",
+    "allocation": "0x0100c0b996c1bfc100",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x8330A84D3C16A55302f921C36979B1067418053a",
+    "allocation": "0xfd1abbd4bc68f1e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x31A4Df7B09872935B5B9f720Ce31Fbb311CE4CbD",
+    "allocation": "0xfafdd2ee7f2105e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x3Da48C5E033EDC7Dbb3bcC1e68293753c1Ce9cF6",
+    "allocation": "0xf709f3e4b189fea0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x764e3F45A03EDE81072EC32C858cb7321c5f345b",
+    "allocation": "0xf709f3e4b189fea0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xd6A6992C056cf121F99C14C524aad6D43bA290ab",
+    "allocation": "0xf5dff65c64069e00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xCB49020852676a6020F89363d42Ef7D860e32081",
+    "allocation": "0xe843798158305640",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x7c17d7afF01AedC9397b3f39d229d217Ea99D1BF",
+    "allocation": "0xe5da854aa62c1000",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x3177D6F00eac68EE58fc5415a5FA5D4eaeD4c438",
+    "allocation": "0xde19d363930d17a0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x8566F09d813CfcC25Fe069E264627711BCAF7892",
+    "allocation": "0xdd0c64b270f59260",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xcE1C38525AB4E0CE292E983555F6FcA023211701",
+    "allocation": "0xda0019bca7c76a20",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x7bc17f42367cFBe17f9c51d96A4A90F152735420",
+    "allocation": "0xd8ae1f5f5c0d0680",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x8Df126302a7EA75E7013Ec8Ad6bFaC14DD84a5fF",
+    "allocation": "0xd5252823d4fa8960",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x77f779ab2BdCd641eda87c66F6bB6dde44d449f1",
+    "allocation": "0xd1820b70d079a680",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x94743522F741089766bE3Cba1B8872E0a1c4B584",
+    "allocation": "0xcf833d82a99c1500",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x98b7a46A33D60f71522115Ab7e2Ec8F0FC294038",
+    "allocation": "0xca9266b6689e88a0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xc49ce8477Ce94d2C8D9DC1019948a5cceBf85FEe",
+    "allocation": "0xc5a18fea27a0fc40",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xA5Ba2bd4d2D3e064822c5BE90CEb9273146DA810",
+    "allocation": "0xc5a18fea27a0fc40",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xEdc6a1f3e62671e6196d92Ca81Ec2b382bf1653d",
+    "allocation": "0xc5a18fea27a0fc40",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x88Df652D37D89A9cB3FE95D92Ad8489EE54284fd",
+    "allocation": "0xc5a18fea27a0fc40",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xC517f778A5fAa933BBedb221B022482E05C68E89",
+    "allocation": "0xc5a18fea27a0fc40",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x034d7848570c537FbABe828BC62aA3040c06b278",
+    "allocation": "0xbf35457a398a6b80",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xBd2233C70bDd0CB0158506d10f578232f6a14F2a",
+    "allocation": "0xbeb6c998ffd7ec40",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x1f0B0136D9E89560767dD5aa79F962cFd4ad476c",
+    "allocation": "0xbe3fbcf7a55f2820",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x46AB107b3632fc7140E7B2294E5D803774eb9C88",
+    "allocation": "0xb88b41a8ac39c620",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xb83D1C44B638350C566301d4E99Bae1A1105bbcA",
+    "allocation": "0xac58188d5b213120",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xD0D3206C1dA10448263450556A25748d84a06594",
+    "allocation": "0xa859fab2a7253da0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x50DaA97738A7FA442689ee86f37D7eEd3d55DF46",
+    "allocation": "0xa3cf12e8b32c58e0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x19c0bbeBf716367923B359b4CE79a136e66faf79",
+    "allocation": "0x94392bef9db98080",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x4fA699eec1F8aCB4a23027A1a9969Fd20F06B39D",
+    "allocation": "0x9011f2aaa0a47b00",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xA22F4daB60fB06AD1a0619670A5edA7FE9744901",
+    "allocation": "0x8df251f174f06ee0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xB721262e075AD4073EbE4560161a88fEF8c82dcd",
+    "allocation": "0x8cc88f676aaf0260",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xfa360F1F62c6c61E8a7da598f53fb56c11A1c0e6",
+    "allocation": "0x8c9592440b373e40",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x8Fe91d9Da3C88D0A37091E706AF580E6552cDE28",
+    "allocation": "0x862b35e026972e10",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x34Fed5F05688c0296775a4111b93539d94F7F651",
+    "allocation": "0x854785a23b353150",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x44f0e650A559fd905228047ca90C3D7D696C609e",
+    "allocation": "0x852dfd5b3396b100",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x61477Eaa5E33400acC353390Ca001Be0Eb706eb4",
+    "allocation": "0x84b94e8e1e348580",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x6D51Ee687Cf69E5a8f9412cE00FbA6c9D45b616d",
+    "allocation": "0x838603ffcc4b2c90",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x5a38f942B5A593652ec1EB844CAe8865cdf99412",
+    "allocation": "0x813ba2e0639dea60",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x278F468780C051736FF11cB0A2C4851C8a5E0213",
+    "allocation": "0x7b84f9f258c4b130",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x7f5Fe0Cf45aD50b4E80Fe66a87f692B7c006bc3e",
+    "allocation": "0x7a8ea082941be4d0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xe6e3a67bb7D8a3863DC7E25bf69EA3e631B0d763",
+    "allocation": "0x798b0a6d71f8df70",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xBFfDd785538B1633719cE8A95796ECeb39364B02",
+    "allocation": "0x78a30d2218936030",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x70DB6BA00197d1e7d19ac294791228ff5949290c",
+    "allocation": "0x785099a3b5c79640",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x60d690b144Bfe7EB9218A55A302E6fa3D45A2bC5",
+    "allocation": "0x765f445beaaae5f0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x529927666a32B4ae9a464a96Bd104FaaE2d7924C",
+    "allocation": "0x73b5ad019e006560",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x0b7C75A9689A84854256c7d5dB7C87fEB1bbbb8b",
+    "allocation": "0x72b0f2748fcb8cb0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x84Ecf15af6fEC307aFeAB934b46947967Bc02d5f",
+    "allocation": "0x720d43b641ce9630",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x52e3F56aEB7E5C7fB516B494B8E616Cb6324E5B6",
+    "allocation": "0x6e2a1dcbc8d7c130",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x55746bc4320C2D2976a0dBbFd1b3d5bD36d367a0",
+    "allocation": "0x6db1f38eb5505ee0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x668FAB5429f363f87C17B1d9f7eaDa702CadAe1f",
+    "allocation": "0x6c2d64646631e610",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x00248C162125435c1e2ee5a0d8CB1e5688eB75C1",
+    "allocation": "0x6941d4612eca44f0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xeA5e2ce63323d962556dCd3e8A6002293Bc0caAC",
+    "allocation": "0x689d6a4b826b7450",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x4A434f6529754b2c44717bc10E34D7b5D8ab9947",
+    "allocation": "0x67c19ec154ce3190",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x3e4F4DEe05C6B2f42704A3a713d4Ae4A084Ed8Ed",
+    "allocation": "0x66c5d546ccd5f650",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xDa2056A61124F73F59b7c86FeC56d5B2B08c4228",
+    "allocation": "0x66b183ecd21a1200",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xB171af39fAD7677178f721D4fB21428A7E75B738",
+    "allocation": "0x65979ee1b95d24b0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x26a78cd6FE2f363d138ADdBBEd469E1B491d4A9B",
+    "allocation": "0x6526ae2025467f10",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x16d97E9C4EEe7C4D6531627Cc5d1378993234014",
+    "allocation": "0x639daf5cd29152f0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x84B0a7b290765d8aBF0bD529Ed0E9d9F30FEb84C",
+    "allocation": "0x62d0c7f513d0a530",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x8A85E947da6f865a3ba630eCD43E629A46510be2",
+    "allocation": "0x62d0c7f513d0a530",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xB4474abE61b20A86565e8E90E459aF724F6874b4",
+    "allocation": "0x62d0c7f513d0a530",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xBb1dDDDE618B5Ad5446eBf590a454879337d5e12",
+    "allocation": "0x62d0c7f513d0a530",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xfC205Fb2d0A27E8258FA707adAbaf2f1597C03f4",
+    "allocation": "0x62d0c7f513d0a530",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x2aB9C0C7ac764da93ACC4E3012718104527DdB45",
+    "allocation": "0x62d0c7f513d0a530",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xe7d4d5aEa169afcaA903Bbf1f8bbB1e514645DF7",
+    "allocation": "0x62d0c7f513d0a530",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xeC1a7b584171258f849Db18a6B2835A2F90dE916",
+    "allocation": "0x62d0c7f513d0a530",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x62949D87e19A8b4c9e03d6943A1F8Ae74a6CaA55",
+    "allocation": "0x62d0c7f513d0a530",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x4ce1eF9D48Fd303982C42C38cfC5c698ab7Cb461",
+    "allocation": "0x62d0c7f513d0a530",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xD2839CC657c9360d9655fE279D3B65Ad85F63E46",
+    "allocation": "0x62d0c7f513d0a530",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x1037CdF9D316d2fd48245f0D361027e2d334aA45",
+    "allocation": "0x62d0c7f513d0a530",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x87e062Bc16Ca69BFE9995E7eA99EbF02D22C56fb",
+    "allocation": "0x62d0c7f513d0a530",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xbFB469468Dc76F84a7E03b97953A3fB411AF0005",
+    "allocation": "0x62d0c7f513d0a530",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x5027EAD005a8058aDEaEb59fF0398533eD1B0db5",
+    "allocation": "0x62d0c7f513d0a530",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x65247C038719C178f00097e3508dab9115a2bfb8",
+    "allocation": "0x62d0c7f513d0a530",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x83e28d08f59343cd13eF93bb4423D67ceB80096B",
+    "allocation": "0x62d0c7f513d0a530",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xc3E9A2c9B19e4989e88654ba283Dcd2F0e3bD150",
+    "allocation": "0x615927b654bcd210",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x44D3E3D34D1Dd3e1D520d8ce39d51C9A88cFac6E",
+    "allocation": "0x5e49b586c2049830",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xE61cc9F9BfF04E9F6824c0AB81648dcED5DD4bfF",
+    "allocation": "0x52a169492b6d5160",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x6A07Ea36da7850cc89BE2523eB9423fBE7237061",
+    "allocation": "0x4efc5eb24fd8eb30",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x5101395ec20D419280e9F08Fb755B3B03c71eF9D",
+    "allocation": "0x4d4e82896d900e10",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x45966c9B80B95413653e056db487BE1Ec2B826F1",
+    "allocation": "0x4ce1a4a0e11b5c10",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x72C8280dEFC12277281ce52820e10C7816197B4e",
+    "allocation": "0x46e6cf02543ffbd0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x5f62ecE59FbBA2Bae1654e9b69bbfA4e4d5b329b",
+    "allocation": "0x4584298309ebd820",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xA0F77c56B545818B64646E2dE834b044573ce078",
+    "allocation": "0x3f1e92670aa8efb0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x2b622689Ab932F5c6f5D1D3279a138401230c3BD",
+    "allocation": "0x395748427a995530",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xbA272f30459A119B243c02F3adcFD2BFa210f480",
+    "allocation": "0x3851d4dc303c9d60",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x7a9a1BA7CfF6c0920cc74E850C6A671CE48f0E7f",
+    "allocation": "0x301ecd9a1a645020",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x97aC8d0430F1F5F205b2e81aa6f556D851bFc9Fe",
+    "allocation": "0x29161977b6795f50",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xF1DE039511edACE08039ECa8d88C1d43E3381F6d",
+    "allocation": "0x2656d2d5b806ac10",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x65aC1Ffea31C0949c08874E03d9cc30d610f4e59",
+    "allocation": "0x1da508c985f1bf70",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xaA4d65D31C17372804Af9660A7F34C983f0355F0",
+    "allocation": "0x1903e6c6f45b5630",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x9A44394ffd96a78d0B5c5b2f5DCFF6052C70176d",
+    "allocation": "0x12ddeb7d290c0210",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0x5E9801b080C811EcB204A012c95c1abd4Fa846e8",
+    "allocation": "0x0a181236d4d916d0",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xeA67521Ba195BF490a5664497fD7b6f5bc0685C8",
+    "allocation": "0x09e1ad9881fb43b8",
+    "reasons": [
+      "airdrop"
+    ]
+  },
+  {
+    "address": "0xFCFA4369EAa965AC4e36f1Dd9fd2852C6542b0F7",
+    "allocation": "0x01f9ef84e6cbd990",
+    "reasons": [
+      "airdrop"
+    ]
+  }
+]
